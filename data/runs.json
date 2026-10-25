@@ -328,5 +328,34 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-10-26T06:37:59+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-10-26-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 0,
+      "total": 0,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 0,
+      "checked": 0,
+      "rechecks": 0,
+      "confirmed": 0,
+      "mismatch": 0,
+      "cannot_check": 0
+    },
+    "companies": [],
+    "headline": "Nothing to assess today: every extraction has already been checked.",
+    "radar_check": {
+      "watch_run_at": "2026-10-26T06:09:11+08:00",
+      "watch_brief": "briefs/2026-10-26-watch.md",
+      "brief_says": 0,
+      "saved_for_run": 0,
+      "match": true
+    },
+    "offline": false
   }
 ]
