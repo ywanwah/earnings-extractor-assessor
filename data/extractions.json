@@ -1,1 +1,317 @@
-[]
+[
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000066",
+    "release_date": "2026-07-22",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 119796,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 96,428 | $ | 119,796"
+      },
+      "operating_income": {
+        "value": 40770,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,271 | 40,770"
+      },
+      "net_income": {
+        "value": 112193,
+        "unit": "USD millions",
+        "quote": "Net income | 28,196 | 112,193"
+      },
+      "diluted_eps": {
+        "value": 9.11,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.31 | $ | 9.11"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Alphabet revenues grew 24% year on year and Google Cloud revenue growth accelerated to 82%, driven by demand for AI infrastructure and solutions.",
+        "quote": "Q2 was an amazing quarter, with Alphabet revenues growing 24% year-over-year and Google Cloud revenues accelerating to 82% growth, driven by demand for AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says AI investments are redefining what is possible across every part of the business.",
+        "quote": "Our AI investments are redefining what’s possible across every part of our business."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the full-stack approach to AI is delivering real, measurable value to consumers, customers and partners.",
+        "quote": "These outstanding results show that our differentiated, full stack approach to AI is delivering real, measurable value for consumers, customers, and our partners globally."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls Q2 an amazing quarter and the results outstanding, and names no headwind in his remarks."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000066.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/0001652044-26-000066-index.htm",
+    "saved_at": "2026-10-25T23:27:33+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000024",
+    "release_date": "2026-07-30",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 200606,
+        "unit": "USD millions",
+        "quote": "Total net sales | 167,702 | 200,606"
+      },
+      "operating_income": {
+        "value": 27461,
+        "unit": "USD millions",
+        "quote": "Operating income | 19,171 | 27,461"
+      },
+      "net_income": {
+        "value": 62647,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,164 | $ | 62,647"
+      },
+      "diluted_eps": {
+        "value": 5.75,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.68 | $ | 5.75"
+      }
+    },
+    "guidance": {
+      "text": "Amazon expects third-quarter 2026 net sales of $197.0 billion to $202.0 billion, growth of 9% to 12% on the third quarter of 2025.",
+      "quote": "Net sales are expected to be between $197.0 billion and $202.0 billion, or to grow between 9% and 12% compared with third quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says AWS grew 36.7% year on year in Q2, its fastest growth in 18 quarters.",
+        "quote": "AWS is booming, growing 36.7% year-over-year in Q2—our fastest growth in 18 quarters—and our AI and Chips businesses each eclipsed run rates of more than $25 billion"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says advertising grew 26% year on year.",
+        "quote": "And, Advertising had another strong quarter with 26% year-over-year growth."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says much more is coming for customers in the second half of the year and beyond.",
+        "quote": "There’s a lot to be excited about, and we have much more coming for customers in the second half of the year and beyond."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says AWS is booming, calls advertising strong and says there is a lot to be excited about."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000024.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260630xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/0001018724-26-000024-index.htm",
+    "saved_at": "2026-10-25T23:27:33+08:00"
+  },
+  {
+    "cik": "1326801",
+    "company": "Meta Platforms",
+    "accession": "0001628280-26-066700",
+    "release_date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 64601,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 64,601 | $ | 51,242"
+      },
+      "operating_income": {
+        "value": 12988,
+        "unit": "USD millions",
+        "quote": "Income from operations | 12,988 | 20,535"
+      },
+      "net_income": {
+        "value": 9860,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 9,860 | $ | 2,709"
+      },
+      "diluted_eps": {
+        "value": 3.83,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 3.83"
+      }
+    },
+    "guidance": {
+      "text": "Meta expects fourth-quarter 2026 total revenue of $73 billion to $76 billion.",
+      "quote": "We expect fourth quarter 2026 total revenue to be in the range of $73-76 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the company's investments are paying off and the core business is strong.",
+        "quote": "Our investments are paying off, the core business is strong, and we're seeing velocity across the board."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CFO raises the full-year 2026 expense outlook to $175-179 billion to include the $9.9 billion legal charge.",
+        "quote": "We now expect full year 2026 total expenses to be in the range of $175-179 billion."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Excluding the legal charge, the CFO still expects 2026 operating income to be above 2025.",
+        "quote": "Excluding the third quarter legal charge, we continue to expect 2026 operating income to be above 2025 operating income."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CFO says the company expects to keep investing aggressively in its core business and AI beyond 2026.",
+        "quote": "we expect to continue investing aggressively to support both our core business and emerging AI initiatives."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO says investments are paying off, while the CFO raises the expense outlook and notes youth-related trials and legal scrutiny."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1326801-0001628280-26-066700.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/0001628280-26-066700-index.htm",
+    "saved_at": "2026-10-25T23:27:33+08:00"
+  },
+  {
+    "cik": "1318220",
+    "company": "Waste Connections, Inc.",
+    "accession": "0001104659-26-117838",
+    "release_date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 2638.081,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 2,458,378 | $ | 2,638,081"
+      },
+      "operating_income": {
+        "value": 541.745,
+        "unit": "USD millions",
+        "quote": "Operating income | 439,591 | 541,745"
+      },
+      "net_income": {
+        "value": 359.224,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 286,271 | $ | 359,224"
+      },
+      "diluted_eps": {
+        "value": 1.43,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 1.11 | $ | 1.43"
+      }
+    },
+    "guidance": {
+      "text": "Waste Connections now estimates full-year 2026 revenue of approximately $10.09 billion.",
+      "quote": "Revenue is estimated to be approximately $10.09 billion;"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says strong operational execution and improving landfill and commodity-driven revenue trends drove another beat.",
+        "quote": "Another top to bottom beat in the period was driven by continued strength in operational execution along with improving trends in landfill activity and commodity-driven revenue."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CEO says the company overcame a late-quarter rise in diesel prices to deliver an adjusted EBITDA margin of 34%.",
+        "quote": "we overcame a late quarter surge in diesel pricing to deliver adjusted EBITDA margin* of 34% on underlying margin expansion of 50 basis points"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the company is on track to exceed the full-year 2026 revenue and adjusted EBITDA outlook raised in July.",
+        "quote": "Our performance puts us firmly on track to exceed the increased full year 2026 outlook we provided in July for revenue and adjusted EBITDA*"
+      },
+      {
+        "id": "M4",
+        "topic": "other",
+        "claim": "The CEO says year-to-date share repurchases exceeded $1 billion, for 2.5% of outstanding shares.",
+        "quote": "bringing year to date outlays to over $1 billion for 2.5% of outstanding shares"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO describes a top to bottom beat and says the company is firmly on track to exceed its raised outlook, noting only a diesel price surge."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1318220-0001104659-26-117838.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1318220/000110465926117838/wcn-ex99d1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1318220/000110465926117838/0001104659-26-117838-index.htm",
+    "saved_at": "2026-10-25T23:27:33+08:00"
+  },
+  {
+    "cik": "1418819",
+    "company": "Iridium Communications Inc.",
+    "accession": "0001418819-26-000053",
+    "release_date": "2026-10-20",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 245.733,
+        "unit": "USD millions",
+        "quote": "Total revenue | 245,733 | 226,935"
+      },
+      "operating_income": {
+        "value": 31.618,
+        "unit": "USD millions",
+        "quote": "Operating income | 31,618 | 70,085"
+      },
+      "net_income": {
+        "value": 106.896,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 106,896 | $ | 37,127"
+      },
+      "diluted_eps": {
+        "value": 0.98,
+        "unit": "USD per share",
+        "quote": "Net income was $106.9 million, or $0.98 per diluted share, for the third quarter of 2026"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO calls last month's stockholder approval of the Rocket Lab acquisition an important milestone.",
+        "quote": "Last month’s stockholder approval for Rocket Lab’s acquisition of Iridium was an important milestone in creating a next generation space powerhouse"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says the combination will unlock innovation and accelerate growth in critical space-based missions.",
+        "quote": "The combination of these two leading space companies will unlock new innovation in the space industry and accelerate our growth in critical space-based missions."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks only of the Rocket Lab deal, calling it an important milestone that will accelerate growth."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1418819-0001418819-26-000053.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1418819/000141881926000053/pressreleaseq32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1418819/000141881926000053/0001418819-26-000053-index.htm",
+    "saved_at": "2026-10-25T23:27:33+08:00"
+  }
+]

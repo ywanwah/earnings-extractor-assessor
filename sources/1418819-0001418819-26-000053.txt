@@ -1,0 +1,211 @@
+Company: Iridium Communications Inc. (CIK 1418819)
+Accession: 0001418819-26-000053
+Results released: 2026-10-20
+Press release: https://www.sec.gov/Archives/edgar/data/1418819/000141881926000053/pressreleaseq32026.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1418819/000141881926000053/0001418819-26-000053-index.htm
+Saved: 2026-10-25T23:27:33+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 pressreleaseq32026.htm EX-99.1
+FOR RELEASE Tuesday, October 20, 2026
+Investor Contact: Press Contact:
+Kenneth Levy
+Iridium Communications Inc.
++1 (703) 287-7570
+ken.levy@iridium.com
+Jordan Hassin
+Iridium Communications Inc.
++1 (703) 287-7421
+jordan.hassin@iridium.com
+Iridium Announces Third Quarter 2026 Results
+Completes acquisition of Aireon; Pending acquisition by Rocket Lab receives stockholder approval
+MCLEAN, Va. – October 20, 2026 – Iridium Communications Inc. (Nasdaq: IRDM) (“Iridium” or the “Company”), a leading provider of global voice, data, aircraft surveillance, and positioning, navigation, and timing (PNT) satellite services, today reported financial results for the third quarter of 2026.
+Update on Pending Transaction with Rocket Lab
+On June 28, 2026, the Company entered into a definitive agreement with Rocket Lab Corporation (Nasdaq: RKLB) (“Rocket Lab”) under which Rocket Lab will acquire the Company. Iridium stockholders approved the transaction at a Special Meeting of Stockholders on September 24, 2026 with 99.6% of the votes cast voting in favor of the transaction, representing 81.4% of Iridium's outstanding shares of common stock entitled to vote. The transaction is expected to be completed by mid-2027, subject to the satisfaction of the remaining regulatory approvals and closing conditions.
+“Last month’s stockholder approval for Rocket Lab’s acquisition of Iridium was an important milestone in creating a next generation space powerhouse,” said Matt Desch, CEO, Iridium. Desch continued, “The combination of these two leading space companies will unlock new innovation in the space industry and accelerate our growth in critical space-based missions.”
+Third Quarter 2026 Financial Results
+Iridium reported third quarter total revenue of $245.7 million, an 8% increase versus the comparable period of 2025. Service revenue grew 13% from the year-ago period, primarily due to the acquisition of Aireon, and was 76% of total revenue for the third quarter of 2026.
+Income from Operations
+Net income was $106.9 million, or $0.98 per diluted share, for the third quarter of 2026, as compared to net income of $37.1 million, or $0.35 per diluted share, for the third quarter of 2025. The increase was primarily the result of the $103.9 million gain related to the acquisition of Aireon, which is included in the Company’s condensed consolidated statements starting in the third quarter. Operational EBITDA (“OEBITDA”)(1) for the third quarter of 2026 was $135.6 million, as compared to $136.6 million for the prior-year period. The year-over-year change in OEBITDA was partly due to $4.5 million in higher expenses related to the previously disclosed change to pay annual incentive compensation solely in cash.
+Subscribers
+The Company ended the third quarter with 2,696,000 total billable subscribers, up from 2,542,000 for the year-ago period and 2,627,000 for the quarter ended June 30, 2026. Total billable subscribers grew 6% year-over-year, led by growth in commercial Internet of Things (IoT).
+Business Highlights
+Service – Commercial
+Commercial service remained the largest part of Iridium’s business, representing 65% of the Company’s total revenue during the third quarter. Commercial service revenue was $159.9 million, up 16% from the comparable period last year, primarily due to the acquisition of Aireon. Hosted payload and other data service revenue increased $22.7 million, or 121%, in the third quarter, primarily due to the acquisition of Aireon.
+Service – U.S. Government
+Government service revenue grew 2% to $27.6 million in the third quarter, reflecting contractual rate increases in the Enhanced Mobile Satellite Services contract (the “EMSS Contract”) over the prior year. The U.S. government continues to be Iridium’s largest single customer, representing 15% of service revenue and nearly all of the Company’s engineering services and support business.
+On September 11, 2026, the U.S. Space Force exercised its option to extend the EMSS Contract with Iridium through March 2027, at the same contractual rate. Iridium continues to expect a renewal of the EMSS Contract in 2027.
+Equipment
+Equipment revenue was $19.0 million in the third quarter, compared to $21.5 million in the prior-year quarter.
+Engineering & Support
+Engineering and support revenue was $39.2 million during the third quarter, compared to $40.2 million in the prior-year quarter.
+Closing of Aireon Acquisition
+Iridium completed its acquisition of Aireon, operator of the world's only space-based Automatic Dependent Surveillance-Broadcast (ADS-B) air traffic surveillance system, on July 2, 2026. The acquisition solidifies Iridium as the premier global provider of integrated communications, navigation, and surveillance solutions for airlines and air navigation service providers to enable a safer, more connected, and more efficient aviation ecosystem.
+Capital Allocation
+Capital expenditures were $27.4 million for the third quarter, including $2.2 million in capitalized interest. The Company ended the third quarter with gross debt of $2.2 billion, and a cash and cash equivalents balance of $97.9 million, for a net debt balance of $2.1 billion.
+In conjunction with the Company’s acquisition of Aireon, Iridium assumed Aireon’s existing credit facility with an aggregate principal balance of $154.7 million with a scheduled maturity date of October 10, 2028 and deferred 50% of the purchase price in the form of a $183.4 million loan from the sellers, bearing no interest and maturing one year following closing. The Company also drew $100.0 million on the Company’s revolving credit facility in advance of closing and $50.0 million remained outstanding as of September 30, 2026. The Company ended the third quarter with net leverage of 4.2 times trailing twelve months OEBITDA.
+Iridium paid its third quarter dividend of $0.15 per share of common stock on September 30, 2026, resulting in a total payment of $16.3 million to stockholders. The Company’s Board of Directors plans to increase the quarterly dividend to $0.16 per share starting with the fourth quarter 2026 dividend, which would result in a full-year dividend increase of 5.2%.
+(1)Non-GAAP Financial Measures & Definitions
+In addition to disclosing financial results that are determined in accordance with U.S. GAAP, the Company reports OEBITDA, which is a non-GAAP financial measure, as a supplemental measure to help investors evaluate the Company’s fundamental operational performance. OEBITDA represents earnings before interest, income taxes, depreciation and amortization, gain (loss) on equity method investments, transaction related expenses, and share-based compensation expenses. The Company considers the loss on early extinguishment of debt to be financing-related costs associated with interest expense or amortization of financing fees, which by definition are excluded from OEBITDA. Management believes such charges are incidental to, but not reflective of, the Company’s day-to-day operating performance. OEBITDA does not represent, and should not be considered, an alternative to U.S. GAAP measurements such as net income or loss. In addition, there is no standardized measurement of OEBITDA, and the Company’s calculations thereof may not be comparable to similarly titled measures reported by other companies. The Company believes OEBITDA is a useful measure across time in evaluating its fundamental operational performance. Management also uses OEBITDA to manage the business, including in preparing its annual operating budget, debt covenant compliance, financial projections and compensation plans. The Company believes that OEBITDA is also useful to investors because similar measures are frequently used by securities analysts, investors and other interested parties in their evaluation of companies in similar industries. OEBITDA does not include interest expense on borrowed money, the payment of income taxes, amortization of the Company’s definite-lived intangible assets, or depreciation expense on the Company’s capital assets, which are necessary elements of the Company’s operations. Since OEBITDA does not account for these and other expenses, its utility as a measure of the Company’s operating performance has material limitations. Due to these limitations, the Company’s management does not view OEBITDA in isolation, but also uses other measurements, such as net income, revenues and operating profit, to measure operating performance. Please refer to the schedule below for a reconciliation of consolidated GAAP net income to OEBITDA and Iridium’s Investor Relations webpage at www.iridium.com for a discussion and reconciliation of this and other non-GAAP financial measures.
+Iridium Communications Inc.
+Supplemental Reconciliation of GAAP Net Income to Operational EBITDA
+(In thousands)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+GAAP net income | $ | 106,896 | $ | 37,127 | $ | 138,169 | $ | 89,507
+Interest expense, net | 26,788 | 22,593 | 65,400 | 67,169
+Income tax expense | 2,186 | 10,003 | 14,138 | 19,629
+Depreciation and amortization | 62,094 | 52,975 | 169,698 | 157,479
+Share-based compensation | 20,231 | 13,155 | 48,972 | 43,992
+Transaction-related expenses(1) | 21,294 | — | 36,318 | —
+(Gain) loss on equity method investments | (103,868) | 734 | (101,626) | 2,242
+Operational EBITDA | $ | 135,621 | $ | 136,587 | $ | 371,069 | $ | 380,018
+(1) Represents direct costs incurred in connection with the evaluation, negotiation, consummation, financing and integration of strategic transactions, including acquisitions, divestitures and investments, whether or not actually completed. These costs generally include legal and advisory fees, severance and other related costs.
+About Iridium Communications Inc.
+Iridium Communications Inc. (Nasdaq: IRDM) operates the world’s only truly global mobile satellite network. It serves as a platform for innovation, enabling voice, data, and messaging, positioning, navigation, and timing (PNT), and aircraft surveillance services anywhere on Earth. Through its satellite constellation and integrated capabilities like Aireon, the world’s only space-based air traffic surveillance system, Iridium delivers services that support safety-focused operations across aviation, maritime, government, industrial, and consumer markets. The Company is a leader in satellite Internet of Things (IoT) connectivity and is advancing direct-to-device (D2D) communications based on open standards to expand access to satellite services.
+Headquartered in McLean, Virginia, Iridium innovates through an ecosystem of more than 500 technology and distribution partners, serving millions of customers worldwide. For more information, visit www.iridium.com.
+Forward-Looking Statements
+Statements in this press release that are not purely historical facts may constitute forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. Iridium has based these statements on its current expectations and the information currently available to it. Forward-looking statements in this press release include statements regarding Iridium’s strategy and growth opportunities; Iridium’s acquisition by Rocket Lab and the benefits and expected timing and completion thereof; the expected benefits of Iridium’s acquisition of Aireon; expectations related to the renewal of the EMSS Contract and the expected timing thereof; and plans regarding Iridium’s quarterly dividends. Forward-looking statements can be identified by the words “anticipates,” “may,” “can,” “believes,” “expects,” “projects,” “intends,” “likely,” “will,” “to be” and other expressions that are predictions or indicate future events, trends or prospects. These forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause the actual results, performance, or achievements of Iridium to differ materially from any future results, performance or achievements expressed or implied by such forward-looking statements. These risks and uncertainties include, but are not limited to, uncertainties regarding customer demand for Iridium’s products and services, including demand from the U.S. government; Iridium’s ability to maintain the health, capacity and content of its satellite constellation; the development of and market for Iridium’s products and services; increased competition; risks related to Iridium’s pending acquisition by Rocket Lab, including the risk that regulatory approvals or other closing conditions may not be obtained, satisfied or waived, that the proposed transaction may be delayed or not completed, that the anticipated benefits of the proposed transaction may not be realized, the impact of pending or potential litigation relating to the proposed transaction against Rocket Lab, Iridium or their respective directors, managers, or officers, including the effects of any outcomes related thereto, the risk that disruptions from the proposed transaction will harm Rocket Lab’s or Iridium’s businesses, including current plans and operations, or will otherwise divert management time from ongoing business operations on transaction-related issues, potential adverse reactions or changes to business relationships resulting from the announcement or completion of the proposed transaction, fluctuations in, and uncertainty as to the long-term value of, Rocket Lab or Iridium common stock (including as relating to the risk that any announcements related to the proposed transaction could have adverse effects on the market price of such stock), restrictions during the pendency of the proposed transaction that may impact Iridium’s ability to pursue certain business opportunities or strategic transactions, and unexpected costs, charges or expenses resulting from the proposed transaction; risks related to Iridium’s recent acquisition of Aireon; the risk that the EMSS Contract may not be renewed on as favorable terms or at all; changes in trade policy, including tariff rates, as well as general industry and economic conditions; and legal, governmental and technological factors. Other factors that could cause actual results to differ materially from those indicated by the forward-looking statements include those factors listed under the caption “Risk Factors” in the Company’s Form 10-K for the year ended December 31, 2025, filed with the Securities and Exchange Commission (“SEC”) on February 12, 2026, and the Company’s Form 10-Q for the quarter ended September 30, 2026, filed with the SEC on October 20, 2026, as well as other filings Iridium makes with the SEC from time to time. There is no assurance that Iridium’s expectations will be realized. If one or more of these risks or uncertainties materialize, or if Iridium’s underlying assumptions prove incorrect, actual results may differ materially from those expected, estimated or projected. Iridium’s forward-looking statements are based on information available to it as of the date of this press release and speak only as of the date of this press release, and Iridium undertakes no obligation to update forward-looking statements, except as required by applicable law.
+Iridium Communications Inc.
+Condensed Consolidated Statements of Operations
+(In thousands)
+Three Months Ended September 30,
+2026 | 2025
+Revenue
+Service revenue
+Commercial | $ | 159,925 | $ | 138,333
+Government | 27,573 | 26,910
+Total service revenue | 187,498 | 165,243
+Subscriber equipment | 19,045 | 21,507
+Engineering and support service | 39,190 | 40,185
+Total revenue | 245,733 | 226,935
+Operating expenses
+Cost of services (exclusive of depreciation and amortization) | 60,666 | 50,762
+Cost of subscriber equipment sales | 11,609 | 12,661
+Research and development | 4,810 | 4,944
+Selling, general and administrative | 74,936 | 35,508
+Depreciation and amortization | 62,094 | 52,975
+Total operating expenses | 214,115 | 156,850
+Operating income | 31,618 | 70,085
+Other expense, net
+Interest expense, net | (26,788) | (22,593)
+Other income, net | 384 | 372
+Total other expense, net | (26,404) | (22,221)
+Income before income taxes and gain (loss) on equity method investments, net | 5,214 | 47,864
+Income tax expense | (2,186) | (10,003)
+Gain (loss) on equity method investments, net | 103,868 | (734)
+Net income | $ | 106,896 | $ | 37,127
+Operational EBITDA | $ | 135,621 | $ | 136,587
+Iridium Communications Inc.
+Condensed Consolidated Statements of Operations
+(In thousands)
+Nine Months Ended September 30,
+2026 | 2025
+Revenue
+Service revenue
+Commercial | $ | 424,032 | $ | 394,695
+Government | 82,823 | 80,410
+Total service revenue | 506,855 | 475,105
+Subscriber equipment | 60,031 | 64,083
+Engineering and support service | 123,141 | 119,531
+Total revenue | 690,027 | 658,719
+Operating expenses
+Cost of services (exclusive of depreciation and amortization) | 161,616 | 153,152
+Cost of subscriber equipment sales | 38,101 | 36,830
+Research and development | 16,514 | 14,640
+Selling, general and administrative | 187,759 | 115,887
+Depreciation and amortization | 169,698 | 157,479
+Total operating expenses | 573,688 | 477,988
+Operating income | 116,339 | 180,731
+Other expense, net
+Interest expense, net | (65,400) | (67,169)
+Other expense, net | (258) | (2,184)
+Total other expense, net | (65,658) | (69,353)
+Income before income taxes and gain (loss) on equity method investments, net | 50,681 | 111,378
+Income tax expense | (14,138) | (19,629)
+Gain (loss) on equity method investments, net | 101,626 | (2,242)
+Net income | $ | 138,169 | $ | 89,507
+Operational EBITDA | $ | 371,069 | $ | 380,018
+Iridium Communications Inc.
+Summary Revenue and OEBITDA Highlights
+(In thousands)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | % Change | 2026 | 2025 | % Change
+Revenue
+Service revenue(1)
+Commercial service revenue
+Voice and data | $ | 58,002 | $ | 59,930 | (3) | % | $ | 173,822 | $ | 172,682 | 1 | %
+IoT data(2) | 48,669 | 46,707 | 4 | % | 141,706 | 135,303 | 5 | %
+Broadband(3) | 11,822 | 12,970 | (9) | % | 35,718 | 38,570 | (7) | %
+Hosted payload and other data service(4) | 41,432 | 18,726 | 121 | % | 72,786 | 48,140 | 51 | %
+Total commercial service revenue | 159,925 | 138,333 | 16 | % | 424,032 | 394,695 | 7 | %
+Government service revenue(5) | 27,573 | 26,910 | 2 | % | 82,823 | 80,410 | 3 | %
+Total service revenue | 187,498 | 165,243 | 13 | % | 506,855 | 475,105 | 7 | %
+Subscriber equipment | 19,045 | 21,507 | (11) | % | 60,031 | 64,083 | (6) | %
+Engineering and support(6)
+Commercial | 317 | 1,852 | (83) | % | 3,348 | 5,893 | (43) | %
+Government | 38,873 | 38,333 | 1 | % | 119,793 | 113,638 | 5 | %
+Total engineering and support | 39,190 | 40,185 | (2) | % | 123,141 | 119,531 | 3 | %
+Total revenue | $ | 245,733 | $ | 226,935 | 8 | % | $ | 690,027 | $ | 658,719 | 5 | %
+Operational EBITDA
+Operational EBITDA | $ | 135,621 | $ | 136,587 | (1) | % | $ | 371,069 | $ | 380,018 | (2) | %
+Other
+Capital expenditures(7) | $ | 27,447 | $ | 21,535 | $ | 79,238 | $ | 66,791
+Net debt(8) | $ | 2,061,605 | $ | 1,736,188
+Cash, cash equivalents and marketable securities | $ | 97,853 | $ | 88,533
+Gross debt(9) | $ | 2,159,458 | $ | 1,824,721
+Deferred financing costs | (20,130) | (14,878)
+Debt, net | $ | 2,139,328 | $ | 1,809,843
+(1) Service revenue consists primarily of subscription-based services which often generate a long-term recurring revenue stream from subscribers.
+(2) IoT data service provides a two-way short burst data transmission between Iridium’s network and a telemetry unit, which may be located, for example, on a container in transit or a buoy monitoring oceanographic conditions.
+(3) Broadband is comprised of Iridium OpenPort® and Iridium Certus®.
+(4) Hosted payload and other data services consist primarily of services that do not have traditional billable subscribers, including hosting and other data services to Iridium’s payload customers, Aireon (through the acquisition date of July 2, 2026), and L3Harris Technologies, Inc. After the Aireon acquisition date, hosted payload services also include revenue associated with Iridium’s space-based ADS-B, air traffic surveillance system, and related data services. Other data services primarily include Iridium’s positioning, navigation and timing service.
+(5) Government service revenue consists of voice and IoT data subscription-based services provided to agencies of the U.S. government through prime contracts.
+(6) Engineering and support includes engineering services for the Space Development Agency contract and to assist commercial customers in developing new technologies for use on Iridium’s satellite system, as well as maintenance services to the U.S. government’s dedicated gateway.
+(7) Capital expenditures based on cash spent in the respective period.
+(8) Net debt is calculated as gross debt less cash, cash equivalents, and marketable securities.
+(9) Gross debt includes amounts outstanding under Iridium’s Term Loan and Revolving Credit Facility, Aireon’s existing credit facility assumed in the acquisition, and the loan from the Aireon sellers.
+Iridium Communications Inc.
+Subscriber Highlights
+(In thousands, except ARPU)
+As of September 30,
+2026 | 2025 | % Change
+Billable Subscribers (1) (2)
+Commercial
+Voice and data, IoT data and Broadband service
+Voice and data | 396 | 411 | (4) | %
+IoT data | 2,163 | 1,991 | 9 | %
+Broadband (3) | 16.0 | 16.3 | (2) | %
+Total commercial voice and data, IoT data and Broadband service | 2,575 | 2,418 | 6 | %
+Government
+Voice and data and IoT data service
+Voice and data | 44 | 45 | (2) | %
+IoT data | 77 | 79 | (2) | %
+Total government voice and data and IoT data service | 121 | 124 | (2) | %
+Total billable subscribers | 2,696 | 2,542 | 6 | %
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Net Billable Subscriber Additions
+Commercial
+Voice and data. IoT data and Broadband service
+Voice and data | (6) | (4) | (6) | (4)
+IoT data | 72 | 67 | 165 | 104
+Broadband | — | — | (0.1) | (0.3)
+Total commercial voice and data, IoT data and Broadband service | 66 | 63 | 159 | 100
+Government
+Voice and data and IoT data service
+Voice and data | 2 | (4) | 1 | (17)
+IoT data | 1 | — | (1) | —
+Total government voice and data and IoT data service | 3 | (4) | — | (17)
+Total net billable subscriber additions | 69 | 59 | 159 | 83
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | % Change | 2026 | 2025 | % Change
+ARPU (2) (4)
+Commercial
+Voice and data | $ | 48 | $ | 48 | — | % | $ | 48 | $ | 46 | 4 | %
+IoT data | $ | 7.63 | $ | 7.95 | (4) | % | $ | 7.57 | $ | 7.75 | (2) | %
+Broadband | $ | 246 | $ | 265 | (7) | % | $ | 248 | $ | 261 | (5) | %
+(1) Subscribers as of the end of the respective period.
+(2) Billable subscriber and average monthly revenue per unit (“ARPU”) data is not applicable for hosted payload and other data service revenue items and is excluded from presentation above.
+(3) Broadband is comprised of Iridium OpenPort and Iridium Certus.
+(4) ARPU is calculated by dividing revenue in the respective period by the average of the number of billable subscribers at the beginning of the period and the number of billable subscribers at the end of the period and then dividing the result by the number of months in the period.
