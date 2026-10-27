@@ -1,109 +1,123 @@
 {
-  "fetched_at": "2026-10-27T08:49:55+08:00",
+  "fetched_at": "2026-10-27T23:08:31+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-10-25",
-    "end": "2026-10-26",
+    "end": "2026-10-27",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 13,
-  "answered": 13,
+  "requests": 15,
+  "answered": 15,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-26",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-27",
       "ok": true,
-      "detail": "HTTP 200, 43 KB in 528 ms"
+      "detail": "HTTP 200, 60 KB in 343 ms"
+    },
+    {
+      "name": "Earnings radar, page 2",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-27&from=100",
+      "ok": true,
+      "detail": "HTTP 200, 32 KB in 297 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 84 ms"
+      "detail": "HTTP 200, 148 KB in 118 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 18 ms"
+      "detail": "HTTP 200, 156 KB in 24 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 155 KB in 18 ms"
+      "detail": "HTTP 200, 155 KB in 21 ms"
     },
     {
-      "name": "KFORCE INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/930420/000093042026000070/index.json",
+      "name": "Acumen Pharmaceuticals, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1576885/000162828026067129/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 204 ms"
+      "detail": "HTTP 200, 7 KB in 41 ms"
     },
     {
-      "name": "KFORCE INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/930420/000093042026000070/exhibit991q32026.htm",
+      "name": "Acumen Pharmaceuticals, Inc. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1576885/000162828026067129/0001628280-26-067129-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 172 KB in 63 ms"
+      "detail": "HTTP 200, 27 KB in 81 ms"
     },
     {
-      "name": "Bank of Marin Bancorp filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1403475/000140347526000043/index.json",
+      "name": "Acumen Pharmaceuticals, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1576885/000162828026067129/abos-20261026xexx991.htm",
       "ok": true,
-      "detail": "HTTP 200, 5 KB in 169 ms"
+      "detail": "HTTP 200, 127 KB in 109 ms"
     },
     {
-      "name": "Bank of Marin Bancorp press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1403475/000140347526000043/earningsrelease-ex991q32026.htm",
+      "name": "WATSCO INC filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/105016/000119312526432680/index.json",
       "ok": true,
-      "detail": "HTTP 200, 727 KB in 98 ms"
+      "detail": "HTTP 200, 1 KB in 38 ms"
+    },
+    {
+      "name": "WATSCO INC press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/105016/000119312526432680/wso-ex99_1.htm",
+      "ok": true,
+      "detail": "HTTP 200, 390 KB in 62 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 49 ms"
+      "detail": "HTTP 200, 3,090 KB in 42 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 22 ms"
+      "detail": "HTTP 200, 4,373 KB in 46 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,736 KB in 30 ms"
+      "detail": "HTTP 200, 2,736 KB in 50 ms"
     },
     {
-      "name": "KFORCE INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000930420.json",
+      "name": "Acumen Pharmaceuticals, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001576885.json",
       "ok": true,
-      "detail": "HTTP 200, 2,808 KB in 189 ms"
+      "detail": "HTTP 200, 813 KB in 169 ms"
     },
     {
-      "name": "Bank of Marin Bancorp company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001403475.json",
+      "name": "WATSCO INC company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000105016.json",
       "ok": true,
-      "detail": "HTTP 200, 4,851 KB in 89 ms"
+      "detail": "HTTP 200, 2,712 KB in 308 ms"
     }
   ],
   "files": [
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000930420.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000105016.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001403475.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001576885.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
-    "www.sec.gov_Archives_edgar_data_1403475_000140347526000043_earningsrelease-ex991q32026.htm",
-    "www.sec.gov_Archives_edgar_data_1403475_000140347526000043_index.json",
-    "www.sec.gov_Archives_edgar_data_930420_000093042026000070_exhibit991q32026.htm",
-    "www.sec.gov_Archives_edgar_data_930420_000093042026000070_index.json"
+    "efts.sec.gov_search-index_from100.json",
+    "www.sec.gov_Archives_edgar_data_105016_000119312526432680_index.json",
+    "www.sec.gov_Archives_edgar_data_105016_000119312526432680_wso-ex99_1.htm",
+    "www.sec.gov_Archives_edgar_data_1576885_000162828026067129_0001628280-26-067129-index.htm",
+    "www.sec.gov_Archives_edgar_data_1576885_000162828026067129_abos-20261026xexx991.htm",
+    "www.sec.gov_Archives_edgar_data_1576885_000162828026067129_index.json"
   ]
 }
