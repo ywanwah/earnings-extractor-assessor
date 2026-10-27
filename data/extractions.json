@@ -313,5 +313,127 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1418819/000141881926000053/pressreleaseq32026.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1418819/000141881926000053/0001418819-26-000053-index.htm",
     "saved_at": "2026-10-25T23:27:33+08:00"
+  },
+  {
+    "cik": "1576885",
+    "company": "Acumen Pharmaceuticals, Inc.",
+    "accession": "0001628280-26-067129",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": {
+        "value": -25.813,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (25,813)"
+      },
+      "net_income": {
+        "value": -25.369,
+        "unit": "USD millions",
+        "quote": "Net loss | (25,369)"
+      },
+      "diluted_eps": {
+        "value": -0.35,
+        "unit": "USD per share",
+        "quote": "Net loss per common share, basic and diluted | $ | (0.35)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "The CEO says the company expects to report topline results from the ALTITUDE-AD Phase 2 study in November 2026.",
+        "quote": "today I’m pleased to announce that we expect to report topline results in November 2026."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the company remains encouraged that sabirnetug could become a treatment of choice for early Alzheimer's disease.",
+        "quote": "We remain encouraged by the potential for sabirnetug to become a treatment of choice, with a differentiated benefit-risk profile driven by its unique attributes as an anti-AβO IgG2 monoclonal antibody"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says IND-enabling work continues towards a mid-2027 IND submission for an Enhanced Brain Delivery lead candidate.",
+        "quote": "We continue to make progress on IND-enabling activities in support of a mid-2027 IND submission for a lead candidate"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the company is pleased and remains encouraged about both programmes, and names no setback."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1576885-0001628280-26-067129.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1576885/000162828026067129/abos-20261026xexx991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1576885/000162828026067129/0001628280-26-067129-index.htm",
+    "saved_at": "2026-10-27T23:11:19+08:00"
+  },
+  {
+    "cik": "105016",
+    "company": "WATSCO INC",
+    "accession": "0001193125-26-432680",
+    "release_date": "2026-10-27",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 2220.358,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 2,220,358"
+      },
+      "operating_income": {
+        "value": 225.208,
+        "unit": "USD millions",
+        "quote": "Operating income | 225,208"
+      },
+      "net_income": {
+        "value": 155.369,
+        "unit": "USD millions",
+        "quote": "Net income attributable to Watsco, Inc. | $ | 155,369"
+      },
+      "diluted_eps": {
+        "value": 3.77,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share for Common and Class B common stock | $ | 3.77"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says third-quarter results and early fourth-quarter sales point to continued improvement in end-market demand.",
+        "quote": "Third quarter results and early fourth quarter sales trends are indicative of continued improvement in end-market demand."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says residential unit volumes have returned to growth and improved through the season.",
+        "quote": "We are encouraged to see residential unit volumes return to growth and steadily improve throughout the season."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the long-range objectives for sales, margin and cash flow generation remain fully intact.",
+        "quote": "Our long-range objectives for sales, margin and cash flow generation remain fully intact."
+      },
+      {
+        "id": "M4",
+        "topic": "other",
+        "claim": "The CEO says the Jackson and Granite acquisitions added 107 locations and $730 million in annualised revenue.",
+        "quote": "having added 107 locations and $730 million in annualized revenue to our network through the acquisitions of Jackson and Granite"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of improving demand and says long-range objectives remain fully intact; the comments do not address the lower gross margin."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/105016-0001193125-26-432680.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/105016/000119312526432680/wso-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/105016/000119312526432680/0001193125-26-432680-index.htm",
+    "saved_at": "2026-10-27T23:11:19+08:00"
   }
 ]
