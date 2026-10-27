@@ -531,5 +531,69 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-10-27T23:15:24+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-10-27-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 2,
+      "total": 2,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 2,
+      "checked": 2,
+      "rechecks": 0,
+      "confirmed": 3,
+      "mismatch": 0,
+      "cannot_check": 5
+    },
+    "companies": [
+      {
+        "cik": "1576885",
+        "company": "Acumen Pharmaceuticals, Inc.",
+        "accession": "0001628280-26-067129",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "105016",
+        "company": "WATSCO INC",
+        "accession": "0001193125-26-432680",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 2 extractions: 3 figures confirmed, 0 mismatches, 5 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-10-27T23:11:19+08:00",
+      "watch_brief": "briefs/2026-10-27-watch.md",
+      "brief_says": 136,
+      "saved_for_run": 136,
+      "match": true
+    },
+    "offline": false
   }
 ]
