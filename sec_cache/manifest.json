@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-28T08:28:28+08:00",
+  "fetched_at": "2026-10-28T08:44:18+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,97 +16,97 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-27",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 97 ms"
+      "detail": "HTTP 200, 60 KB in 149 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-27&from=100",
       "ok": true,
-      "detail": "HTTP 200, 47 KB in 44 ms"
+      "detail": "HTTP 200, 47 KB in 79 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 76 ms"
+      "detail": "HTTP 200, 148 KB in 116 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 17 ms"
+      "detail": "HTTP 200, 156 KB in 109 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 155 KB in 17 ms"
+      "detail": "HTTP 200, 155 KB in 80 ms"
     },
     {
       "name": "NBT BANCORP INC filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/790359/000114036126040897/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 87 ms"
+      "detail": "HTTP 200, 1 KB in 117 ms"
     },
     {
       "name": "NBT BANCORP INC press release",
       "url": "https://www.sec.gov/Archives/edgar/data/790359/000114036126040897/ef20084356_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 967 KB in 202 ms"
+      "detail": "HTTP 200, 967 KB in 240 ms"
     },
     {
       "name": "ROCKY BRANDS, INC. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/895456/000143774926033642/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 52 ms"
+      "detail": "HTTP 200, 1 KB in 61 ms"
     },
     {
       "name": "ROCKY BRANDS, INC. filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/895456/000143774926033642/0001437749-26-033642-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 62 ms"
+      "detail": "HTTP 200, 10 KB in 105 ms"
     },
     {
       "name": "ROCKY BRANDS, INC. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/895456/000143774926033642/ex_1006816.htm",
       "ok": true,
-      "detail": "HTTP 200, 234 KB in 158 ms"
+      "detail": "HTTP 200, 234 KB in 194 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 43 ms"
+      "detail": "HTTP 200, 3,090 KB in 171 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 98 ms"
+      "detail": "HTTP 200, 4,373 KB in 171 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,736 KB in 19 ms"
+      "detail": "HTTP 200, 2,736 KB in 105 ms"
     },
     {
       "name": "NBT BANCORP INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000790359.json",
       "ok": true,
-      "detail": "HTTP 200, 4,918 KB in 583 ms"
+      "detail": "HTTP 200, 4,918 KB in 200 ms"
     },
     {
       "name": "ROCKY BRANDS, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000895456.json",
       "ok": true,
-      "detail": "HTTP 200, 2,727 KB in 96 ms"
+      "detail": "HTTP 200, 2,727 KB in 284 ms"
     },
     {
       "name": "WATSCO INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000105016.json",
       "ok": true,
-      "detail": "HTTP 200, 2,712 KB in 767 ms"
+      "detail": "HTTP 200, 2,712 KB in 310 ms"
     }
   ],
   "files": [
