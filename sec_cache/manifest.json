@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T08:51:42+08:00",
+  "fetched_at": "2026-10-29T09:14:11+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,126 +16,126 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-28",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 296 ms"
+      "detail": "HTTP 200, 60 KB in 96 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-28&from=100",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 265 ms"
+      "detail": "HTTP 200, 59 KB in 47 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-28&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 705 ms"
+      "detail": "HTTP 200, 60 KB in 64 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-28&from=300",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 375 ms"
+      "detail": "HTTP 200, 61 KB in 68 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-28&from=400",
       "ok": true,
-      "detail": "HTTP 200, 15 KB in 256 ms"
+      "detail": "HTTP 200, 15 KB in 48 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 129 ms"
+      "detail": "HTTP 200, 149 KB in 69 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 98 ms"
+      "detail": "HTTP 200, 1 KB in 64 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 361 KB in 142 ms"
+      "detail": "HTTP 200, 361 KB in 405 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 64 ms"
+      "detail": "HTTP 200, 156 KB in 29 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 77 ms"
+      "detail": "HTTP 200, 156 KB in 16 ms"
     },
     {
-      "name": "NWPX Infrastructure, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1001385/000143774926033798/index.json",
+      "name": "MGM Resorts International filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/789570/000078957026000106/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 107 ms"
+      "detail": "HTTP 200, 1 KB in 172 ms"
     },
     {
-      "name": "NWPX Infrastructure, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1001385/000143774926033798/ex_996700.htm",
+      "name": "MGM Resorts International press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/789570/000078957026000106/mgmex991q32026earningrelea.htm",
       "ok": true,
-      "detail": "HTTP 200, 250 KB in 66 ms"
+      "detail": "HTTP 200, 333 KB in 59 ms"
     },
     {
       "name": "EBAY INC filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508826000209/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 85 ms"
+      "detail": "HTTP 200, 1 KB in 50 ms"
     },
     {
       "name": "EBAY INC press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1065088/000106508826000209/exhibit991erebayq32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 422 KB in 359 ms"
+      "detail": "HTTP 200, 422 KB in 177 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 103 ms"
+      "detail": "HTTP 200, 3,090 KB in 34 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 117 ms"
+      "detail": "HTTP 200, 4,373 KB in 22 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,737 KB in 119 ms"
+      "detail": "HTTP 200, 2,737 KB in 23 ms"
     },
     {
-      "name": "NWPX Infrastructure, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001001385.json",
+      "name": "MGM Resorts International company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000789570.json",
       "ok": true,
-      "detail": "HTTP 200, 2,925 KB in 134 ms"
+      "detail": "HTTP 200, 3,794 KB in 73 ms"
     },
     {
       "name": "EBAY INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001065088.json",
       "ok": true,
-      "detail": "HTTP 200, 4,011 KB in 101 ms"
+      "detail": "HTTP 200, 4,011 KB in 316 ms"
     },
     {
       "name": "WATSCO INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000105016.json",
       "ok": true,
-      "detail": "HTTP 200, 2,712 KB in 257 ms"
+      "detail": "HTTP 200, 2,712 KB in 73 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0000105016.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001001385.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000789570.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001065088.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
@@ -148,11 +148,11 @@
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
     "efts.sec.gov_search-index_from400.json",
-    "www.sec.gov_Archives_edgar_data_1001385_000143774926033798_ex_996700.htm",
-    "www.sec.gov_Archives_edgar_data_1001385_000143774926033798_index.json",
     "www.sec.gov_Archives_edgar_data_1065088_000106508826000209_exhibit991erebayq32026.htm",
     "www.sec.gov_Archives_edgar_data_1065088_000106508826000209_index.json",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_googexhibit991q32026.htm",
-    "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json"
+    "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json",
+    "www.sec.gov_Archives_edgar_data_789570_000078957026000106_index.json",
+    "www.sec.gov_Archives_edgar_data_789570_000078957026000106_mgmex991q32026earningrelea.htm"
   ]
 }
