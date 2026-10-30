@@ -2133,5 +2133,224 @@
     "filing_found": false,
     "recheck": true,
     "assessed_at": "2026-10-30T06:38:25+08:00"
+  },
+  {
+    "accession": "0001193125-26-432680",
+    "cik": "105016",
+    "company": "WATSCO INC",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure could be read: data.sec.gov answered 403. The quote holds 2,220,358 thousand, which is the extract's 2,220.358 million."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure could be read: data.sec.gov answered 403. The quote holds 225,208 thousand, which is the extract's 225.208 million."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure could be read: data.sec.gov answered 403. The quote holds 155,369 thousand, which is the extract's 155.369 million."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure could be read: data.sec.gov answered 403. The quote holds 3.77, the same as the extract."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All four quotes are in the release and hold their numbers. They also agree with the release's own table. The 10-Q check is still to come."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are present with quotes. The release gives no numeric guidance, so none is missing."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Figures and claims are usable as they stand. The 10-Q check is not done, so the analyst should confirm the filed figures later."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "2,220.358 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "operating_income": {
+        "extracted": "225.208 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "net_income": {
+        "extracted": "155.369 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "3.77 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Tested on the release's table: revenue 2,220.358 against 2,067.005 a year ago, up 7.4% (4% same-store). Operating income fell 4% to 225.208, so the gain is in sales. No prior quarter filed."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Tested on the release's text: residential equipment sales grew 7%, with 5% unit growth and a 2% price rise. Same-store growth rates improved through the season. Fundamentals alone cannot test units."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "Long-range outlook. Latest trend is mixed: revenue up 7.4% on a year ago, but operating margin 10.1% against 11.4% and EPS 3.77 against 3.98. Consistent on sales; margin is lower now."
+      },
+      "M4": {
+        "verdict": "matches",
+        "reason": "Release text: Jackson 25 locations and about $230m sales, Granite 82 locations and about $500m. That gives 107 locations and $730m. Fundamentals cannot test it."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Revenue rose 7.4% on a year ago and unit growth was 5%. Operating income fell 4% and margin 1.3 points, which the comments leave out, as the watcher notes."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 2220.358,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": 225.208,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 155.369,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 3.77,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": 10.142868852680513,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 6.997475181930121,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says third-quarter results and early fourth-quarter sales point to continued improvement in end-market demand.",
+        "quote": "Third quarter results and early fourth quarter sales trends are indicative of continued improvement in end-market demand.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says residential unit volumes have returned to growth and improved through the season.",
+        "quote": "We are encouraged to see residential unit volumes return to growth and steadily improve throughout the season.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the long-range objectives for sales, margin and cash flow generation remain fully intact.",
+        "quote": "Our long-range objectives for sales, margin and cash flow generation remain fully intact.",
+        "quote_found": true
+      },
+      {
+        "id": "M4",
+        "topic": "other",
+        "claim": "The CEO says the Jackson and Granite acquisitions added 107 locations and $730 million in annualised revenue.",
+        "quote": "having added 107 locations and $730 million in annualized revenue to our network through the acquisitions of Jackson and Granite",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of improving demand and says long-range objectives remain fully intact; the comments do not address the lower gross margin."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-10-31T06:38:18+08:00"
   }
 ]
