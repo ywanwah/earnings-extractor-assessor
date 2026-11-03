@@ -1448,5 +1448,80 @@
       "match": null
     },
     "offline": false
+  },
+  {
+    "run_at": "2026-11-04T06:09:02+08:00",
+    "agent": "watcher",
+    "brief": "briefs/2026-11-04-watch.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 21,
+      "total": 21,
+      "failures": []
+    },
+    "counts": {
+      "radar_new": 783,
+      "companies": 3,
+      "new": 4,
+      "saved": 4,
+      "no_new": 1,
+      "failed": 0
+    },
+    "radar": {
+      "ok": true,
+      "start": "2026-10-27",
+      "end": "2026-11-02",
+      "hits": 933,
+      "results_filings": 854,
+      "new": 783,
+      "watchlist_new": [
+        "AMAZON COM INC (2026-10-29, 0001018724-26-000038)",
+        "Alphabet Inc. (2026-10-28, 0001652044-26-000080)"
+      ],
+      "detail": null
+    },
+    "companies": [
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "status": "saved",
+        "accession": "0001652044-26-000080",
+        "release_date": "2026-10-28",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "status": "saved",
+        "accession": "0001018724-26-000038",
+        "release_date": "2026-10-29",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "4281",
+        "company": "Howmet Aerospace Inc.",
+        "status": "saved",
+        "accession": "0001104659-26-119857",
+        "release_date": "2026-10-29",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "320193",
+        "company": "Apple Inc.",
+        "status": "saved",
+        "accession": "0000320193-26-000024",
+        "release_date": "2026-11-02",
+        "period_label": "quarter ended 26 September 2026"
+      },
+      {
+        "cik": "1326801",
+        "company": "Meta Platforms",
+        "status": "no_new",
+        "accession": "0001628280-26-066700",
+        "release_date": "2026-10-21",
+        "period_label": "quarter ended 30 September 2026"
+      }
+    ],
+    "offline": false
   }
 ]

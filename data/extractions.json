@@ -435,5 +435,251 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/105016/000119312526432680/wso-ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/105016/000119312526432680/0001193125-26-432680-index.htm",
     "saved_at": "2026-10-27T23:11:19+08:00"
+  },
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000080",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 127577,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 102,346 | $ | 127,577"
+      },
+      "operating_income": {
+        "value": 40576,
+        "unit": "USD millions",
+        "quote": "Operating income | $ | 31,228 | $ | 40,576"
+      },
+      "net_income": {
+        "value": 26468,
+        "unit": "USD millions",
+        "quote": "Net income | 34,979 | 26,468"
+      },
+      "diluted_eps": {
+        "value": 2.12,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.87 | $ | 2.12"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Alphabet revenues grew 25% year over year, with Google Cloud up 103%.",
+        "quote": "Google Cloud revenues grew 103%, powered by huge demand for our AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says Alphabet revenues grew 25% and are on a half-trillion dollar run rate.",
+        "quote": "We had a strong quarter and are now on a half-trillion dollar revenue run rate."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "Operating income rose 30% and the operating margin was 31.8%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin was 31.8%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it a strong quarter and points to momentum and big opportunities ahead."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000080.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/0001652044-26-000080-index.htm",
+    "saved_at": "2026-11-04T06:09:02+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000038",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 201944,
+        "unit": "USD millions",
+        "quote": "Total net sales | 180,169 | 201,944"
+      },
+      "operating_income": {
+        "value": 28076,
+        "unit": "USD millions",
+        "quote": "Operating income | 17,422 | 28,076"
+      },
+      "net_income": {
+        "value": 20685,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 21,187 | $ | 20,685"
+      },
+      "diluted_eps": {
+        "value": 1.89,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.95 | $ | 1.89"
+      }
+    },
+    "guidance": {
+      "text": "Amazon expects fourth quarter 2026 net sales of $240.0 billion to $247.0 billion.",
+      "quote": "Net sales are expected to be between $240.0 billion and $247.0 billion, or to grow between 12% and 16% compared with fourth quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "margins",
+        "claim": "Operating income was $28.1 billion, with the highest operating margin Amazon has reported.",
+        "quote": "Operating income was $28.1 billion and operating margin was 13.9%—Amazon’s highest operating margin ever"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "AWS net sales grew 39.3%, its fastest growth in nearly five years.",
+        "quote": "AWS net sales increased 39.3%—its fastest growth in nearly five years—to a $184 billion annualized revenue run rate"
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Net income fell to $20.7 billion because of large investment gains in the year before.",
+        "quote": "Net income decreased to $20.7 billion in the third quarter, or $1.89 per diluted share, compared with $21.2 billion, or $1.95 per diluted share, in third quarter 2025."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the AWS investment is working and that retail is gaining share with improving margins."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000038.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/0001018724-26-000038-index.htm",
+    "saved_at": "2026-11-04T06:09:02+08:00"
+  },
+  {
+    "cik": "4281",
+    "company": "Howmet Aerospace Inc.",
+    "accession": "0001104659-26-119857",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 2703,
+        "unit": "USD millions",
+        "quote": "Sales | $ | 2,703 | $ | 2,547"
+      },
+      "operating_income": {
+        "value": 777,
+        "unit": "USD millions",
+        "quote": "Operating income | 777 | 711 | 542"
+      },
+      "net_income": {
+        "value": 567,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 567 | $ | 534 | $ | 385"
+      },
+      "diluted_eps": {
+        "value": 1.42,
+        "unit": "USD per share",
+        "quote": "Net income per share | $ | 1.42 | $ | 1.33 | $ | 0.95"
+      }
+    },
+    "guidance": {
+      "text": "Howmet guides fourth quarter 2026 revenue to a range of $2,740 million to $2,760 million, baseline $2,750 million.",
+      "quote": "Revenue | $ | 2,740 | $ | 2,750 | $ | 2,760 | $ | 10,290 | $ | 10,300 | $ | 10,310"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Revenue grew 29% year over year, its strongest quarterly growth rate on record.",
+        "quote": "Revenue grew 29% year over year and 25% organically, the strongest quarterly growth rate on record for Howmet."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "Free cash flow was $562 million after capital expenditure.",
+        "quote": "Free cash flow was a robust $562 million after $147 million in capital expenditures"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management expects a healthy fourth quarter and a strong year.",
+        "quote": "Our trajectory points to a healthy fourth quarter and the conclusion of another strong year for Howmet."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls performance solid in all dimensions and expects a healthy fourth quarter."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/4281-0001104659-26-119857.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/4281/000110465926119857/tm2628456d1_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/4281/000110465926119857/0001104659-26-119857-index.htm",
+    "saved_at": "2026-11-04T06:09:02+08:00"
+  },
+  {
+    "cik": "320193",
+    "company": "Apple Inc.",
+    "accession": "0000320193-26-000024",
+    "release_date": "2026-11-02",
+    "period_end": "2026-09-26",
+    "period_label": "quarter ended 26 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 114477,
+        "unit": "USD millions",
+        "quote": "Total net sales (1) | 114,477 | 102,466"
+      },
+      "operating_income": {
+        "value": 35631,
+        "unit": "USD millions",
+        "quote": "Operating income | 35,631 | 32,427"
+      },
+      "net_income": {
+        "value": 30711,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 30,711 | $ | 27,466"
+      },
+      "diluted_eps": {
+        "value": 2.1,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 2.10 | $ | 1.85"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Revenue of $114.5 billion was a September quarter record, up 12% year over year.",
+        "quote": "Today, Apple is proud to report a September quarter revenue record of $114.5 billion, up 12 percent from a year ago"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CFO says net income and EPS were September quarter records.",
+        "quote": "Apple delivered September quarter records for net income and EPS."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "Gross margin was 47.9%, including about 1 point from tariff refunds.",
+        "quote": "Company gross margin was 47.9 percent, including a favorable impact of approximately 1 percentage point from tariff refunds."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO and CFO describe record results and a strong fiscal year."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/320193-0000320193-26-000024.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000024/a8-kex991q4202609262026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000024/0000320193-26-000024-index.htm",
+    "saved_at": "2026-11-04T06:09:02+08:00"
   }
 ]
