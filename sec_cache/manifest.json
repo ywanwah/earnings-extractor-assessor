@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-04T09:17:28+08:00",
+  "fetched_at": "2026-11-04T09:39:49+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,109 +16,109 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-03",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 1705 ms"
+      "detail": "HTTP 200, 60 KB in 65 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-03&from=100",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 71 ms"
+      "detail": "HTTP 200, 59 KB in 30 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-03&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 50 ms"
+      "detail": "HTTP 200, 60 KB in 20 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-03&from=300",
       "ok": true,
-      "detail": "HTTP 200, 44 KB in 69 ms"
+      "detail": "HTTP 200, 44 KB in 67 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 226 ms"
+      "detail": "HTTP 200, 148 KB in 131 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 103 ms"
+      "detail": "HTTP 200, 156 KB in 22 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 106 ms"
+      "detail": "HTTP 200, 154 KB in 23 ms"
     },
     {
       "name": "Flux Power Holdings, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1083743/000149315226049793/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 232 ms"
+      "detail": "HTTP 200, 1 KB in 136 ms"
     },
     {
       "name": "Flux Power Holdings, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1083743/000149315226049793/ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 183 KB in 299 ms"
+      "detail": "HTTP 200, 183 KB in 67 ms"
     },
     {
       "name": "Vital Farms, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1579733/000119312526444348/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 155 ms"
+      "detail": "HTTP 200, 1 KB in 56 ms"
     },
     {
       "name": "Vital Farms, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1579733/000119312526444348/vitl-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 631 KB in 223 ms"
+      "detail": "HTTP 200, 631 KB in 149 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,173 KB in 105 ms"
+      "detail": "HTTP 200, 3,173 KB in 47 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 182 ms"
+      "detail": "HTTP 200, 4,447 KB in 33 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,743 KB in 179 ms"
+      "detail": "HTTP 200, 2,743 KB in 42 ms"
     },
     {
       "name": "Flux Power Holdings, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001083743.json",
       "ok": true,
-      "detail": "HTTP 200, 2,050 KB in 293 ms"
+      "detail": "HTTP 200, 2,050 KB in 363 ms"
     },
     {
       "name": "Vital Farms, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001579733.json",
       "ok": true,
-      "detail": "HTTP 200, 1,544 KB in 248 ms"
+      "detail": "HTTP 200, 1,544 KB in 30 ms"
     },
     {
       "name": "WATSCO INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000105016.json",
       "ok": true,
-      "detail": "HTTP 200, 2,712 KB in 173 ms"
+      "detail": "HTTP 200, 2,712 KB in 506 ms"
     },
     {
       "name": "Apple Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000320193.json",
       "ok": true,
-      "detail": "HTTP 200, 3,767 KB in 69 ms"
+      "detail": "HTTP 200, 3,767 KB in 82 ms"
     }
   ],
   "files": [
