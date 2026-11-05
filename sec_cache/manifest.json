@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-05T09:26:39+08:00",
+  "fetched_at": "2026-11-05T09:48:26+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,142 +16,142 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 718 ms"
+      "detail": "HTTP 200, 61 KB in 128 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 302 ms"
+      "detail": "HTTP 200, 60 KB in 87 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04&from=200",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 919 ms"
+      "detail": "HTTP 200, 59 KB in 76 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04&from=300",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 343 ms"
+      "detail": "HTTP 200, 59 KB in 77 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04&from=400",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 243 ms"
+      "detail": "HTTP 200, 60 KB in 47 ms"
     },
     {
       "name": "Earnings radar, page 6",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04&from=500",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 504 ms"
+      "detail": "HTTP 200, 60 KB in 47 ms"
     },
     {
       "name": "Earnings radar, page 7",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04&from=600",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 553 ms"
+      "detail": "HTTP 200, 60 KB in 44 ms"
     },
     {
       "name": "Earnings radar, page 8",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-04&from=700",
       "ok": true,
-      "detail": "HTTP 200, 40 KB in 382 ms"
+      "detail": "HTTP 200, 40 KB in 82 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 163 ms"
+      "detail": "HTTP 200, 148 KB in 79 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 90 ms"
+      "detail": "HTTP 200, 156 KB in 110 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 264 ms"
+      "detail": "HTTP 200, 154 KB in 61 ms"
     },
     {
       "name": "A.K.A. BRANDS HOLDING CORP. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1865107/000162828026070119/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 301 ms"
+      "detail": "HTTP 200, 1 KB in 189 ms"
     },
     {
       "name": "A.K.A. BRANDS HOLDING CORP. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1865107/000162828026070119/exhibit991-q32026earningsr.htm",
       "ok": true,
-      "detail": "HTTP 200, 265 KB in 216 ms"
+      "detail": "HTTP 200, 265 KB in 180 ms"
     },
     {
-      "name": "Liberty Latin America Ltd. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1712184/000171218426000159/index.json",
+      "name": "WEIS MARKETS INC filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/105418/000010541826000056/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 107 ms"
+      "detail": "HTTP 200, 1 KB in 113 ms"
     },
     {
-      "name": "Liberty Latin America Ltd. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1712184/000171218426000159/ex991toform_llaq32026earni.htm",
+      "name": "WEIS MARKETS INC press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/105418/000010541826000056/wmk-ex99d1.htm",
       "ok": true,
-      "detail": "HTTP 200, 1,099 KB in 128 ms"
+      "detail": "HTTP 200, 131 KB in 69 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 397 ms"
+      "detail": "HTTP 200, 3,174 KB in 166 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 475 ms"
+      "detail": "HTTP 200, 4,447 KB in 162 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,743 KB in 416 ms"
+      "detail": "HTTP 200, 2,743 KB in 62 ms"
     },
     {
       "name": "A.K.A. BRANDS HOLDING CORP. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001865107.json",
       "ok": true,
-      "detail": "HTTP 200, 1,170 KB in 369 ms"
+      "detail": "HTTP 200, 1,170 KB in 168 ms"
     },
     {
-      "name": "Liberty Latin America Ltd. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001712184.json",
+      "name": "WEIS MARKETS INC company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000105418.json",
       "ok": true,
-      "detail": "HTTP 200, 2,235 KB in 295 ms"
+      "detail": "HTTP 200, 2,173 KB in 82 ms"
     },
     {
       "name": "WATSCO INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000105016.json",
       "ok": true,
-      "detail": "HTTP 200, 2,712 KB in 217 ms"
+      "detail": "HTTP 200, 2,712 KB in 163 ms"
     },
     {
       "name": "Apple Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000320193.json",
       "ok": true,
-      "detail": "HTTP 200, 3,767 KB in 157 ms"
+      "detail": "HTTP 200, 3,767 KB in 175 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0000105016.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000105418.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000320193.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001712184.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001865107.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
@@ -164,8 +164,8 @@
     "efts.sec.gov_search-index_from500.json",
     "efts.sec.gov_search-index_from600.json",
     "efts.sec.gov_search-index_from700.json",
-    "www.sec.gov_Archives_edgar_data_1712184_000171218426000159_ex991toform_llaq32026earni.htm",
-    "www.sec.gov_Archives_edgar_data_1712184_000171218426000159_index.json",
+    "www.sec.gov_Archives_edgar_data_105418_000010541826000056_index.json",
+    "www.sec.gov_Archives_edgar_data_105418_000010541826000056_wmk-ex99d1.htm",
     "www.sec.gov_Archives_edgar_data_1865107_000162828026070119_exhibit991-q32026earningsr.htm",
     "www.sec.gov_Archives_edgar_data_1865107_000162828026070119_index.json"
   ]
