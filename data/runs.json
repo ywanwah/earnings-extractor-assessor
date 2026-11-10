@@ -2586,5 +2586,103 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-11T06:37:48+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-11-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 4,
+      "total": 4,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 4,
+      "checked": 4,
+      "rechecks": 2,
+      "confirmed": 14,
+      "mismatch": 0,
+      "cannot_check": 2
+    },
+    "companies": [
+      {
+        "cik": "105016",
+        "company": "WATSCO INC",
+        "accession": "0001193125-26-432680",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "320193",
+        "company": "Apple Inc.",
+        "accession": "0000320193-26-000024",
+        "period_label": "quarter ended 26 September 2026",
+        "recheck": true,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1262823",
+        "company": "WESTLAKE CORP",
+        "accession": "0001262823-26-000076",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1739940",
+        "company": "Cigna Group",
+        "accession": "0001140361-26-042030",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 2,
+        "claims_mismatch": 2,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 4 extractions: 14 figures confirmed, 0 mismatches, 2 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-11T06:10:06+08:00",
+      "watch_brief": "briefs/2026-11-11-watch.md",
+      "brief_says": 1371,
+      "saved_for_run": 1371,
+      "match": true
+    },
+    "offline": false
   }
 ]
