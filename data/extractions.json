@@ -681,5 +681,139 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000024/a8-kex991q4202609262026.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000024/0000320193-26-000024-index.htm",
     "saved_at": "2026-11-04T06:09:02+08:00"
+  },
+  {
+    "cik": "1262823",
+    "company": "WESTLAKE CORP",
+    "accession": "0001262823-26-000076",
+    "release_date": "2026-11-04",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 2981,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 2,981 | $ | 3,271 | $ | 2,838"
+      },
+      "operating_income": {
+        "value": 43,
+        "unit": "USD millions",
+        "quote": "Income (loss) from operations | $ | 43 | $ | 364 | $ | (766)"
+      },
+      "net_income": {
+        "value": 6,
+        "unit": "USD millions",
+        "quote": "Net income (loss) attributable to Westlake Corporation | $ | 6 | $ | 260 | $ | (782)"
+      },
+      "diluted_eps": {
+        "value": 0.05,
+        "unit": "USD per share",
+        "quote": "Diluted earnings (loss) per common share | $ | 0.05 | $ | 2.01 | $ | (6.06)"
+      }
+    },
+    "guidance": {
+      "text": "Westlake expects higher borrowing costs and homebuyers' affordability concerns to weigh on HIP's near-term sales volumes.",
+      "quote": "Higher borrowing costs have increased potential homebuyers' affordability concerns, which we expect to weigh on HIP's near-term sales volumes."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says results reflected weaker North American residential construction and destocking in HIP, and lower prices and margins in PEM.",
+        "quote": "Our third quarter of 2026 financial results reflected lower levels of North American residential construction activity and customer inventory destocking in our HIP segment combined with lower selling prices and margins in our PEM segment"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says PEM's European earnings were hit hard by higher energy costs, weak demand and imports from Asia.",
+        "quote": "Earnings in PEM's European businesses were significantly impacted by higher energy costs, weak demand, and increased import pressure from Asia."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "The CEO says Westlake generated $220 million of free cash flow and the improvement plan remains on track for $600 million of EBITDA uplift in 2026.",
+        "quote": "Despite these headwinds, Westlake generated $220 million of free cash flow during the quarter, in part due to the benefits from our three-pillar profitability improvement plan, which remains on track to deliver $600 million of EBITDA uplift in 2026"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO says PEM prices have stabilised with upward momentum entering the fourth quarter, but price volatility persists.",
+        "quote": "While PEM selling prices have stabilized with upward momentum entering the fourth quarter of 2026, we recognize that an environment of heightened price volatility persists"
+      }
+    ],
+    "tone": {
+      "label": "cautious",
+      "reason": "The CEO dwells on weak construction, destocking, lower prices and European headwinds, and expects higher borrowing costs to weigh on near-term volumes."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1262823-0001262823-26-000076.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1262823/000126282326000076/ex991_20260930earningsrele.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1262823/000126282326000076/0001262823-26-000076-index.htm",
+    "saved_at": "2026-11-11T06:10:06+08:00"
+  },
+  {
+    "cik": "1739940",
+    "company": "Cigna Group",
+    "accession": "0001140361-26-042030",
+    "release_date": "2026-11-05",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 73683,
+        "unit": "USD millions",
+        "quote": "Total Revenues | $ | 73,683 | $ | 69,748"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 1442,
+        "unit": "USD millions",
+        "quote": "Shareholders’ Net Income | $ | 1,442 | $ | 1,868"
+      },
+      "diluted_eps": {
+        "value": 5.47,
+        "unit": "USD per share",
+        "quote": "DILUTED EARNINGS PER SHARE Shareholders’ net income | $ | 5.47 | $ | 6.98"
+      }
+    },
+    "guidance": {
+      "text": "Cigna raised its full-year 2026 outlook for adjusted income from operations to at least $30.60 per share, up $0.15.",
+      "quote": "The Cigna Group’s outlook for full year 2026 consolidated adjusted income from operations1,2 is at least $30.60 per share2."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO describes the third quarter results as strong and says the company is building momentum.",
+        "quote": "our strong third quarter results demonstrate how we are building on this momentum by making health care more affordable and personalized"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says the Accelerate to One programme will drive productivity, reduce costs and support long-term earnings growth.",
+        "quote": "while advancing Accelerate to One to drive productivity, reduce costs, and support sustained long-term earnings growth."
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "Total revenues rose 6%, driven by growth in both Evernorth Health Services and Cigna Healthcare.",
+        "quote": "Total revenues for third quarter 2026 increased 6% relative to third quarter 2025, driven by growth in both Evernorth Health Services and Cigna Healthcare."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The company is raising its 2026 outlook for adjusted income from operations to at least $30.60 per share.",
+        "quote": "Increasing 2026 outlook for adjusted income from operations1 to at least $30.60 per share2"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter strong and speaks of momentum and growth, and the release raises the 2026 outlook."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1739940-0001140361-26-042030.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1739940/000114036126042030/ef20084818_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1739940/000114036126042030/0001140361-26-042030-index.htm",
+    "saved_at": "2026-11-11T06:10:06+08:00"
   }
 ]
