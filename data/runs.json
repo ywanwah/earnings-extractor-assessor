@@ -2858,5 +2858,78 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-13T06:37:46+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-13-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 0,
+      "total": 2,
+      "failures": [
+        {
+          "name": "Datacentrex, Inc. company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403)"
+        },
+        {
+          "name": "Swarmer, Inc company facts",
+          "detail": "blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run"
+        }
+      ]
+    },
+    "counts": {
+      "to_assess": 2,
+      "checked": 2,
+      "rechecks": 0,
+      "confirmed": 0,
+      "mismatch": 0,
+      "cannot_check": 8
+    },
+    "companies": [
+      {
+        "cik": "1853825",
+        "company": "Datacentrex, Inc.",
+        "accession": "0001493152-26-050997",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "2092574",
+        "company": "Swarmer, Inc",
+        "accession": "0001104659-26-125211",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 2 extractions: 0 figures confirmed, 0 mismatches, 8 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-13T06:08:30+08:00",
+      "watch_brief": "briefs/2026-11-13-watch.md",
+      "brief_says": 169,
+      "saved_for_run": 169,
+      "match": true
+    },
+    "offline": false
   }
 ]
