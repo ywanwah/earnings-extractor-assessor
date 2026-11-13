@@ -1,112 +1,118 @@
 {
-  "fetched_at": "2026-11-12T10:31:31+08:00",
+  "fetched_at": "2026-11-13T09:47:22+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-09",
-    "end": "2026-11-11",
+    "start": "2026-11-11",
+    "end": "2026-11-12",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 16,
-  "answered": 16,
+  "requests": 17,
+  "answered": 17,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 486 ms"
+      "detail": "HTTP 200, 60 KB in 95 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 676 ms"
+      "detail": "HTTP 200, 59 KB in 434 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 1146 ms"
-    },
-    {
-      "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=300",
-      "ok": true,
-      "detail": "HTTP 200, 53 KB in 253 ms"
+      "detail": "HTTP 200, 56 KB in 239 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 65 ms"
+      "detail": "HTTP 200, 149 KB in 139 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 15 ms"
+      "detail": "HTTP 200, 156 KB in 48 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 28 ms"
+      "detail": "HTTP 200, 154 KB in 47 ms"
     },
     {
-      "name": "Datacentrex, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1853825/000149315226050997/index.json",
+      "name": "New ERA Energy & Digital, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/2028336/000121390026118324/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 106 ms"
+      "detail": "HTTP 200, 3 KB in 3534 ms"
     },
     {
-      "name": "Datacentrex, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1853825/000149315226050997/ex99-1.htm",
+      "name": "New ERA Energy & Digital, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/2028336/000121390026118324/ea031194701ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 116 KB in 175 ms"
+      "detail": "HTTP 200, 22 KB in 120 ms"
     },
     {
-      "name": "Swarmer, Inc filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/2092574/000110465926125211/index.json",
+      "name": "GrabAGun Digital Holdings Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/2051380/000119312526458382/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 113 ms"
+      "detail": "HTTP 200, 1 KB in 235 ms"
     },
     {
-      "name": "Swarmer, Inc press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/2092574/000110465926125211/tm2629384d1_ex99-1.htm",
+      "name": "GrabAGun Digital Holdings Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/2051380/000119312526458382/pew-ex99.htm",
       "ok": true,
-      "detail": "HTTP 200, 23 KB in 117 ms"
+      "detail": "HTTP 200, 567 KB in 130 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 253 ms"
+      "detail": "HTTP 200, 3,174 KB in 53 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 392 ms"
+      "detail": "HTTP 200, 4,447 KB in 54 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 32 ms"
+      "detail": "HTTP 200, 2,745 KB in 61 ms"
+    },
+    {
+      "name": "New ERA Energy & Digital, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002028336.json",
+      "ok": true,
+      "detail": "HTTP 200, 436 KB in 167 ms"
+    },
+    {
+      "name": "GrabAGun Digital Holdings Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002051380.json",
+      "ok": true,
+      "detail": "HTTP 200, 284 KB in 58 ms"
     },
     {
       "name": "Datacentrex, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001853825.json",
       "ok": true,
-      "detail": "HTTP 200, 536 KB in 64 ms"
+      "detail": "HTTP 200, 536 KB in 209 ms"
     },
     {
       "name": "Swarmer, Inc company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002092574.json",
       "ok": true,
-      "detail": "HTTP 200, 183 KB in 156 ms"
+      "detail": "HTTP 200, 183 KB in 58 ms"
     }
   ],
   "files": [
@@ -114,6 +120,8 @@
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001853825.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0002028336.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0002051380.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0002092574.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
@@ -121,10 +129,9 @@
     "efts.sec.gov_search-index_from0.json",
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
-    "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1853825_000149315226050997_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1853825_000149315226050997_index.json",
-    "www.sec.gov_Archives_edgar_data_2092574_000110465926125211_index.json",
-    "www.sec.gov_Archives_edgar_data_2092574_000110465926125211_tm2629384d1_ex99-1.htm"
+    "www.sec.gov_Archives_edgar_data_2028336_000121390026118324_ea031194701ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_2028336_000121390026118324_index.json",
+    "www.sec.gov_Archives_edgar_data_2051380_000119312526458382_index.json",
+    "www.sec.gov_Archives_edgar_data_2051380_000119312526458382_pew-ex99.htm"
   ]
 }
