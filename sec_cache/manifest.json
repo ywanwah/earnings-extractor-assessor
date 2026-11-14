@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-14T09:25:59+08:00",
+  "fetched_at": "2026-11-14T09:47:40+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,73 +16,73 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 123 ms"
+      "detail": "HTTP 200, 60 KB in 607 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 105 ms"
+      "detail": "HTTP 200, 60 KB in 313 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 111 ms"
+      "detail": "HTTP 200, 60 KB in 403 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=300",
       "ok": true,
-      "detail": "HTTP 200, 55 KB in 111 ms"
+      "detail": "HTTP 200, 55 KB in 300 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 98 ms"
+      "detail": "HTTP 200, 148 KB in 130 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 38 ms"
+      "detail": "HTTP 200, 156 KB in 97 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 36 ms"
+      "detail": "HTTP 200, 154 KB in 103 ms"
     },
     {
-      "name": "BATTALION OIL CORP filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1282648/000110465926126295/index.json",
+      "name": "Azora Therapeutics, Inc. (DE) filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1513525/000121390026118922/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 185 ms"
+      "detail": "HTTP 200, 1 KB in 204 ms"
     },
     {
-      "name": "BATTALION OIL CORP press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1282648/000110465926126295/batl-ex99d1.htm",
+      "name": "Azora Therapeutics, Inc. (DE) press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1513525/000121390026118922/ea031195201ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 894 KB in 267 ms"
+      "detail": "HTTP 200, 59 KB in 82 ms"
     },
     {
       "name": "AIRO Group Holdings, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1927958/000149315226051150/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 53 ms"
+      "detail": "HTTP 200, 1 KB in 252 ms"
     },
     {
       "name": "AIRO Group Holdings, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1927958/000149315226051150/ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 118 KB in 73 ms"
+      "detail": "HTTP 200, 118 KB in 106 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 54 ms"
+      "detail": "HTTP 200, 3,174 KB in 122 ms"
     },
     {
       "name": "Amazon company facts",
@@ -94,37 +94,37 @@
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 106 ms"
+      "detail": "HTTP 200, 2,745 KB in 112 ms"
     },
     {
-      "name": "BATTALION OIL CORP company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001282648.json",
+      "name": "Azora Therapeutics, Inc. (DE) company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001513525.json",
       "ok": true,
-      "detail": "HTTP 200, 2,511 KB in 354 ms"
+      "detail": "HTTP 200, 1,089 KB in 136 ms"
     },
     {
       "name": "AIRO Group Holdings, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001927958.json",
       "ok": true,
-      "detail": "HTTP 200, 393 KB in 249 ms"
+      "detail": "HTTP 200, 393 KB in 226 ms"
     },
     {
       "name": "Datacentrex, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001853825.json",
       "ok": true,
-      "detail": "HTTP 200, 536 KB in 190 ms"
+      "detail": "HTTP 200, 536 KB in 264 ms"
     },
     {
       "name": "Swarmer, Inc company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002092574.json",
       "ok": true,
-      "detail": "HTTP 200, 183 KB in 199 ms"
+      "detail": "HTTP 200, 183 KB in 184 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001282648.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001513525.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001853825.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001927958.json",
@@ -136,8 +136,8 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1282648_000110465926126295_batl-ex99d1.htm",
-    "www.sec.gov_Archives_edgar_data_1282648_000110465926126295_index.json",
+    "www.sec.gov_Archives_edgar_data_1513525_000121390026118922_ea031195201ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1513525_000121390026118922_index.json",
     "www.sec.gov_Archives_edgar_data_1927958_000149315226051150_ex99-1.htm",
     "www.sec.gov_Archives_edgar_data_1927958_000149315226051150_index.json"
   ]
