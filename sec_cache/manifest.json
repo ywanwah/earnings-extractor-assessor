@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T08:59:23+08:00",
+  "fetched_at": "2026-11-15T09:18:39+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,116 +16,116 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 451 ms"
+      "detail": "HTTP 200, 60 KB in 95 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 356 ms"
+      "detail": "HTTP 200, 60 KB in 124 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 237 ms"
+      "detail": "HTTP 200, 60 KB in 69 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=300",
       "ok": true,
-      "detail": "HTTP 200, 55 KB in 273 ms"
+      "detail": "HTTP 200, 55 KB in 68 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 130 ms"
+      "detail": "HTTP 200, 148 KB in 26 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 105 ms"
+      "detail": "HTTP 200, 156 KB in 19 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 94 ms"
+      "detail": "HTTP 200, 154 KB in 19 ms"
     },
     {
-      "name": "Seritage Growth Properties filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1628063/000119312526460888/index.json",
+      "name": "RELMADA THERAPEUTICS, INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1553643/000121390026118933/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 184 ms"
+      "detail": "HTTP 200, 5 KB in 27 ms"
     },
     {
-      "name": "Seritage Growth Properties press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1628063/000119312526460888/srg-ex99_1.htm",
+      "name": "RELMADA THERAPEUTICS, INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1553643/000121390026118933/ea031205701ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 443 KB in 277 ms"
+      "detail": "HTTP 200, 112 KB in 36 ms"
     },
     {
-      "name": "POWERCOMPUTE, INC. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1640384/000119312526459251/index.json",
+      "name": "Xenetic Biosciences, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1534525/000168316826008650/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 212 ms"
+      "detail": "HTTP 200, 1 KB in 22 ms"
     },
     {
-      "name": "POWERCOMPUTE, INC. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1640384/000119312526459251/lmfa-ex99_1.htm",
+      "name": "Xenetic Biosciences, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1534525/000168316826008650/xenetic_ex9901.htm",
       "ok": true,
-      "detail": "HTTP 200, 482 KB in 120 ms"
+      "detail": "HTTP 200, 28 KB in 24 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 158 ms"
+      "detail": "HTTP 200, 3,174 KB in 88 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 208 ms"
+      "detail": "HTTP 200, 4,447 KB in 128 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 156 ms"
+      "detail": "HTTP 200, 2,745 KB in 75 ms"
     },
     {
-      "name": "Seritage Growth Properties company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001628063.json",
+      "name": "RELMADA THERAPEUTICS, INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001553643.json",
       "ok": true,
-      "detail": "HTTP 200, 1,716 KB in 367 ms"
+      "detail": "HTTP 200, 1,570 KB in 78 ms"
     },
     {
-      "name": "POWERCOMPUTE, INC. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001640384.json",
+      "name": "Xenetic Biosciences, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001534525.json",
       "ok": true,
-      "detail": "HTTP 200, 1,583 KB in 228 ms"
+      "detail": "HTTP 200, 1,420 KB in 76 ms"
     },
     {
       "name": "Datacentrex, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001853825.json",
       "ok": true,
-      "detail": "HTTP 200, 536 KB in 229 ms"
+      "detail": "HTTP 200, 536 KB in 19 ms"
     },
     {
       "name": "Swarmer, Inc company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002092574.json",
       "ok": true,
-      "detail": "HTTP 200, 183 KB in 204 ms"
+      "detail": "HTTP 200, 183 KB in 135 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001628063.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001640384.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001534525.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001553643.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001853825.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0002092574.json",
@@ -136,9 +136,9 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1628063_000119312526460888_index.json",
-    "www.sec.gov_Archives_edgar_data_1628063_000119312526460888_srg-ex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_1640384_000119312526459251_index.json",
-    "www.sec.gov_Archives_edgar_data_1640384_000119312526459251_lmfa-ex99_1.htm"
+    "www.sec.gov_Archives_edgar_data_1534525_000168316826008650_index.json",
+    "www.sec.gov_Archives_edgar_data_1534525_000168316826008650_xenetic_ex9901.htm",
+    "www.sec.gov_Archives_edgar_data_1553643_000121390026118933_ea031205701ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1553643_000121390026118933_index.json"
   ]
 }
