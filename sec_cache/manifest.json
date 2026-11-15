@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-14T09:47:40+08:00",
+  "fetched_at": "2026-11-15T08:59:23+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-11",
-    "end": "2026-11-13",
+    "end": "2026-11-14",
     "first_run": false,
     "note": null
   },
@@ -14,27 +14,27 @@
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 607 ms"
+      "detail": "HTTP 200, 60 KB in 451 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 313 ms"
+      "detail": "HTTP 200, 60 KB in 356 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 403 ms"
+      "detail": "HTTP 200, 60 KB in 237 ms"
     },
     {
       "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-13&from=300",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=300",
       "ok": true,
-      "detail": "HTTP 200, 55 KB in 300 ms"
+      "detail": "HTTP 200, 55 KB in 273 ms"
     },
     {
       "name": "Alphabet filings list",
@@ -46,88 +46,88 @@
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 97 ms"
+      "detail": "HTTP 200, 156 KB in 105 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 103 ms"
+      "detail": "HTTP 200, 154 KB in 94 ms"
     },
     {
-      "name": "Azora Therapeutics, Inc. (DE) filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1513525/000121390026118922/index.json",
+      "name": "Seritage Growth Properties filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1628063/000119312526460888/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 204 ms"
+      "detail": "HTTP 200, 1 KB in 184 ms"
     },
     {
-      "name": "Azora Therapeutics, Inc. (DE) press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1513525/000121390026118922/ea031195201ex99-1.htm",
+      "name": "Seritage Growth Properties press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1628063/000119312526460888/srg-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 82 ms"
+      "detail": "HTTP 200, 443 KB in 277 ms"
     },
     {
-      "name": "AIRO Group Holdings, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1927958/000149315226051150/index.json",
+      "name": "POWERCOMPUTE, INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640384/000119312526459251/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 252 ms"
+      "detail": "HTTP 200, 1 KB in 212 ms"
     },
     {
-      "name": "AIRO Group Holdings, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1927958/000149315226051150/ex99-1.htm",
+      "name": "POWERCOMPUTE, INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640384/000119312526459251/lmfa-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 118 KB in 106 ms"
+      "detail": "HTTP 200, 482 KB in 120 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 122 ms"
+      "detail": "HTTP 200, 3,174 KB in 158 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 138 ms"
+      "detail": "HTTP 200, 4,447 KB in 208 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 112 ms"
+      "detail": "HTTP 200, 2,745 KB in 156 ms"
     },
     {
-      "name": "Azora Therapeutics, Inc. (DE) company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001513525.json",
+      "name": "Seritage Growth Properties company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001628063.json",
       "ok": true,
-      "detail": "HTTP 200, 1,089 KB in 136 ms"
+      "detail": "HTTP 200, 1,716 KB in 367 ms"
     },
     {
-      "name": "AIRO Group Holdings, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001927958.json",
+      "name": "POWERCOMPUTE, INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001640384.json",
       "ok": true,
-      "detail": "HTTP 200, 393 KB in 226 ms"
+      "detail": "HTTP 200, 1,583 KB in 228 ms"
     },
     {
       "name": "Datacentrex, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001853825.json",
       "ok": true,
-      "detail": "HTTP 200, 536 KB in 264 ms"
+      "detail": "HTTP 200, 536 KB in 229 ms"
     },
     {
       "name": "Swarmer, Inc company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002092574.json",
       "ok": true,
-      "detail": "HTTP 200, 183 KB in 184 ms"
+      "detail": "HTTP 200, 183 KB in 204 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001513525.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001628063.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001640384.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001853825.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001927958.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0002092574.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
@@ -136,9 +136,9 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1513525_000121390026118922_ea031195201ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1513525_000121390026118922_index.json",
-    "www.sec.gov_Archives_edgar_data_1927958_000149315226051150_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1927958_000149315226051150_index.json"
+    "www.sec.gov_Archives_edgar_data_1628063_000119312526460888_index.json",
+    "www.sec.gov_Archives_edgar_data_1628063_000119312526460888_srg-ex99_1.htm",
+    "www.sec.gov_Archives_edgar_data_1640384_000119312526459251_index.json",
+    "www.sec.gov_Archives_edgar_data_1640384_000119312526459251_lmfa-ex99_1.htm"
   ]
 }
