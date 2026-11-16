@@ -1,131 +1,137 @@
 {
-  "fetched_at": "2026-11-15T09:18:39+08:00",
+  "fetched_at": "2026-11-16T08:58:06+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-11",
-    "end": "2026-11-14",
+    "end": "2026-11-15",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 18,
-  "answered": 18,
+  "requests": 19,
+  "answered": 19,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 95 ms"
+      "detail": "HTTP 200, 60 KB in 299 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 124 ms"
+      "detail": "HTTP 200, 60 KB in 396 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 69 ms"
+      "detail": "HTTP 200, 60 KB in 344 ms"
     },
     {
       "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=300",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=300",
       "ok": true,
-      "detail": "HTTP 200, 55 KB in 68 ms"
+      "detail": "HTTP 200, 55 KB in 226 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 26 ms"
+      "detail": "HTTP 200, 148 KB in 161 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 19 ms"
+      "detail": "HTTP 200, 156 KB in 43 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 19 ms"
+      "detail": "HTTP 200, 154 KB in 48 ms"
     },
     {
-      "name": "RELMADA THERAPEUTICS, INC. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1553643/000121390026118933/index.json",
+      "name": "INTELLINETICS, INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1081745/000149315226051585/index.json",
       "ok": true,
-      "detail": "HTTP 200, 5 KB in 27 ms"
+      "detail": "HTTP 200, 1 KB in 75 ms"
     },
     {
-      "name": "RELMADA THERAPEUTICS, INC. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1553643/000121390026118933/ea031205701ex99-1.htm",
+      "name": "INTELLINETICS, INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1081745/000149315226051585/ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 112 KB in 36 ms"
+      "detail": "HTTP 200, 136 KB in 69 ms"
     },
     {
-      "name": "Xenetic Biosciences, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1534525/000168316826008650/index.json",
+      "name": "U S GLOBAL INVESTORS INC filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/754811/000143774926036584/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 22 ms"
+      "detail": "HTTP 200, 1 KB in 53 ms"
     },
     {
-      "name": "Xenetic Biosciences, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1534525/000168316826008650/xenetic_ex9901.htm",
+      "name": "U S GLOBAL INVESTORS INC filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/754811/000143774926036584/0001437749-26-036584-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 28 KB in 24 ms"
+      "detail": "HTTP 200, 10 KB in 96 ms"
+    },
+    {
+      "name": "U S GLOBAL INVESTORS INC press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/754811/000143774926036584/ex_1044526.htm",
+      "ok": true,
+      "detail": "HTTP 200, 61 KB in 65 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 88 ms"
+      "detail": "HTTP 200, 3,174 KB in 81 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 128 ms"
+      "detail": "HTTP 200, 4,447 KB in 679 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 75 ms"
+      "detail": "HTTP 200, 2,745 KB in 63 ms"
     },
     {
-      "name": "RELMADA THERAPEUTICS, INC. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001553643.json",
+      "name": "INTELLINETICS, INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001081745.json",
       "ok": true,
-      "detail": "HTTP 200, 1,570 KB in 78 ms"
+      "detail": "HTTP 200, 2,238 KB in 229 ms"
     },
     {
-      "name": "Xenetic Biosciences, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001534525.json",
+      "name": "U S GLOBAL INVESTORS INC company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000754811.json",
       "ok": true,
-      "detail": "HTTP 200, 1,420 KB in 76 ms"
+      "detail": "HTTP 200, 3,300 KB in 466 ms"
     },
     {
       "name": "Datacentrex, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001853825.json",
       "ok": true,
-      "detail": "HTTP 200, 536 KB in 19 ms"
+      "detail": "HTTP 200, 536 KB in 130 ms"
     },
     {
       "name": "Swarmer, Inc company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002092574.json",
       "ok": true,
-      "detail": "HTTP 200, 183 KB in 135 ms"
+      "detail": "HTTP 200, 183 KB in 303 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000754811.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001081745.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001534525.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001553643.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001853825.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0002092574.json",
@@ -136,9 +142,10 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1534525_000168316826008650_index.json",
-    "www.sec.gov_Archives_edgar_data_1534525_000168316826008650_xenetic_ex9901.htm",
-    "www.sec.gov_Archives_edgar_data_1553643_000121390026118933_ea031205701ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1553643_000121390026118933_index.json"
+    "www.sec.gov_Archives_edgar_data_1081745_000149315226051585_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1081745_000149315226051585_index.json",
+    "www.sec.gov_Archives_edgar_data_754811_000143774926036584_0001437749-26-036584-index.htm",
+    "www.sec.gov_Archives_edgar_data_754811_000143774926036584_ex_1044526.htm",
+    "www.sec.gov_Archives_edgar_data_754811_000143774926036584_index.json"
   ]
 }
