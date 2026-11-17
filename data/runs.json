@@ -3515,5 +3515,77 @@
       "match": null
     },
     "offline": false
+  },
+  {
+    "run_at": "2026-11-18T06:07:32+08:00",
+    "agent": "watcher",
+    "brief": "briefs/2026-11-18-watch.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 14,
+      "total": 14,
+      "failures": []
+    },
+    "counts": {
+      "radar_new": 479,
+      "companies": 3,
+      "new": 2,
+      "saved": 2,
+      "no_new": 3,
+      "failed": 0
+    },
+    "radar": {
+      "ok": true,
+      "start": "2026-11-11",
+      "end": "2026-11-16",
+      "hits": 518,
+      "results_filings": 479,
+      "new": 479,
+      "watchlist_new": [],
+      "detail": null
+    },
+    "companies": [
+      {
+        "cik": "1627282",
+        "company": "CaliberCos Inc.",
+        "status": "saved",
+        "accession": "0001627282-26-000081",
+        "release_date": "2026-11-12",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1213809",
+        "company": "DYADIC INTERNATIONAL INC",
+        "status": "saved",
+        "accession": "0001493152-26-051601",
+        "release_date": "2026-11-13",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "status": "no_new",
+        "accession": "0001652044-26-000080",
+        "release_date": "2026-10-28",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "status": "no_new",
+        "accession": "0001018724-26-000038",
+        "release_date": "2026-10-29",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1326801",
+        "company": "Meta Platforms",
+        "status": "no_new",
+        "accession": "0001628280-26-066700",
+        "release_date": "2026-10-21",
+        "period_label": "quarter ended 30 September 2026"
+      }
+    ],
+    "offline": false
   }
 ]

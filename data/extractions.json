@@ -927,5 +927,130 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/2092574/000110465926125211/tm2629384d1_ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/2092574/000110465926125211/0001104659-26-125211-index.htm",
     "saved_at": "2026-11-13T06:08:30+08:00"
+  },
+  {
+    "cik": "1627282",
+    "company": "CaliberCos Inc.",
+    "accession": "0001627282-26-000081",
+    "release_date": "2026-11-12",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 4.315,
+        "unit": "USD millions",
+        "quote": "Total revenues | 4,315 | 3,636"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": -5.03,
+        "unit": "USD millions",
+        "quote": "Net loss attributable to CaliberCos Inc. | $ | (5,030) | $ | (4,371)"
+      },
+      "diluted_eps": {
+        "value": -0.49,
+        "unit": "USD per share",
+        "quote": "Basic and diluted net loss per share attributable to common stockholders | $ | (0.49)"
+      }
+    },
+    "guidance": {
+      "text": "Caliber lowered its 2026 total Platform revenue guidance to a range of $15.0 million to $17.0 million.",
+      "quote": "Total Platform revenue in the range of $15.0 million to $17.0 million"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says Platform Adjusted EBITDA was positive for the second consecutive quarter even as tighter credit moved several transactions into 2027.",
+        "quote": "Platform Adjusted EBITDA was positive for the second consecutive quarter even as tighter credit moved several transactions into 2027."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says the company lowered its revenue guidance while reaffirming its Platform Adjusted EBITDA guidance.",
+        "quote": "That is why we lowered our revenue guidance while reaffirming our Platform Adjusted EBITDA guidance."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The CEO says the real estate platform's cost base has been sized to this market.",
+        "quote": "We have sized its cost base to this market"
+      },
+      {
+        "id": "M4",
+        "topic": "other",
+        "claim": "The CEO calls tokenization the growth engine, with four tokenized offerings and more than $110 million of combined maximum offered equity.",
+        "quote": "Tokenization is our growth engine. This month we took three more offerings live with tokenized ownership, bringing the total to four, with more than $110 million of combined maximum offered equity."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO stresses positive Platform Adjusted EBITDA and tokenization growth, but notes tighter credit delayed transactions and revenue guidance was lowered."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1627282-0001627282-26-000081.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1627282/000162728226000081/cwd-er_q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1627282/000162728226000081/0001627282-26-000081-index.htm",
+    "saved_at": "2026-11-18T06:07:32+08:00"
+  },
+  {
+    "cik": "1213809",
+    "company": "DYADIC INTERNATIONAL INC",
+    "accession": "0001493152-26-051601",
+    "release_date": "2026-11-13",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 0.449101,
+        "unit": "USD millions",
+        "quote": "Total revenue | 449,101 | 1,164,617"
+      },
+      "operating_income": {
+        "value": -1.812365,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (1,812,365 | )"
+      },
+      "net_income": {
+        "value": -1.357041,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (1,357,041 | )"
+      },
+      "diluted_eps": {
+        "value": -0.04,
+        "unit": "USD per share",
+        "quote": "Basic and diluted net loss per common share | $ | (0.04 | )"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The President says the company reached a commercialisation milestone with initial product sales of its animal-free proteins.",
+        "quote": "we reached a key commercialization milestone for our animal-free protein portfolio, advancing market adoption through initial product sales and growing customer engagement across the food, life sciences, and biopharmaceutical sectors"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The President says early sales remain modest and evaluation timelines are longer than expected.",
+        "quote": "While early sales remain modest and evaluation timelines are longer than anticipated, we are seeing increased sampling requests—particularly for transferrin"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The President says the company is evaluating options, including financing alternatives, to strengthen its balance sheet.",
+        "quote": "We continue to evaluate all options to optimize the value of our platforms and assets, including financing alternatives and other opportunities aimed at strengthening our balance sheet"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The President cites a commercialisation milestone and partner momentum, but says early sales are modest and timelines longer than anticipated."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1213809-0001493152-26-051601.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1213809/000149315226051601/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1213809/000149315226051601/0001493152-26-051601-index.htm",
+    "saved_at": "2026-11-18T06:07:32+08:00"
   }
 ]
