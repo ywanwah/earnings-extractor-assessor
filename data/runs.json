@@ -3587,5 +3587,103 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-18T06:38:11+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-18-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 4,
+      "total": 4,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 4,
+      "checked": 4,
+      "rechecks": 2,
+      "confirmed": 13,
+      "mismatch": 0,
+      "cannot_check": 3
+    },
+    "companies": [
+      {
+        "cik": "1853825",
+        "company": "Datacentrex, Inc.",
+        "accession": "0001493152-26-050997",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "2092574",
+        "company": "Swarmer, Inc",
+        "accession": "0001104659-26-125211",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 2,
+        "mismatch": 0,
+        "cannot_check": 2,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1627282",
+        "company": "CaliberCos Inc.",
+        "accession": "0001627282-26-000081",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1213809",
+        "company": "DYADIC INTERNATIONAL INC",
+        "accession": "0001493152-26-051601",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 4 extractions: 13 figures confirmed, 0 mismatches, 3 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-18T06:07:32+08:00",
+      "watch_brief": "briefs/2026-11-18-watch.md",
+      "brief_says": 479,
+      "saved_for_run": 479,
+      "match": true
+    },
+    "offline": false
   }
 ]
