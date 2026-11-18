@@ -3685,5 +3685,77 @@
       "match": true
     },
     "offline": false
+  },
+  {
+    "run_at": "2026-11-19T06:08:03+08:00",
+    "agent": "watcher",
+    "brief": "briefs/2026-11-19-watch.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 10,
+      "total": 10,
+      "failures": []
+    },
+    "counts": {
+      "radar_new": 46,
+      "companies": 3,
+      "new": 2,
+      "saved": 2,
+      "no_new": 3,
+      "failed": 0
+    },
+    "radar": {
+      "ok": true,
+      "start": "2026-11-16",
+      "end": "2026-11-17",
+      "hits": 171,
+      "results_filings": 164,
+      "new": 46,
+      "watchlist_new": [],
+      "detail": null
+    },
+    "companies": [
+      {
+        "cik": "1006045",
+        "company": "IRIDEX CORP",
+        "status": "saved",
+        "accession": "0001193125-26-465550",
+        "release_date": "2026-11-17",
+        "period_label": "quarter ended 3 October 2026"
+      },
+      {
+        "cik": "1045810",
+        "company": "NVIDIA CORP",
+        "status": "saved",
+        "accession": "0001045810-26-000088",
+        "release_date": "2026-11-17",
+        "period_label": "quarter ended 25 October 2026"
+      },
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "status": "no_new",
+        "accession": "0001652044-26-000080",
+        "release_date": "2026-10-28",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "status": "no_new",
+        "accession": "0001018724-26-000038",
+        "release_date": "2026-10-29",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1326801",
+        "company": "Meta Platforms",
+        "status": "no_new",
+        "accession": "0001628280-26-066700",
+        "release_date": "2026-10-21",
+        "period_label": "quarter ended 30 September 2026"
+      }
+    ],
+    "offline": false
   }
 ]

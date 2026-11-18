@@ -1052,5 +1052,137 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1213809/000149315226051601/ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1213809/000149315226051601/0001493152-26-051601-index.htm",
     "saved_at": "2026-11-18T06:07:32+08:00"
+  },
+  {
+    "cik": "1006045",
+    "company": "IRIDEX CORP",
+    "accession": "0001193125-26-465550",
+    "release_date": "2026-11-17",
+    "period_end": "2026-10-03",
+    "period_label": "quarter ended 3 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 10.156,
+        "unit": "USD millions",
+        "quote": "Total revenues | $ | 10,156"
+      },
+      "operating_income": {
+        "value": -1.163,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (1,163"
+      },
+      "net_income": {
+        "value": -1.401,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (1,401"
+      },
+      "diluted_eps": {
+        "value": -0.08,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | (0.08"
+      }
+    },
+    "guidance": {
+      "text": "The company cut its full-year 2026 revenue guidance to between $46 million and $48 million, from $51 million to $53 million.",
+      "quote": "the Company is reducing its annual revenue guidance for the full year 2026 to between $46 million and $48 million, from the prior range of $51 million to $53 million."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Revenue was below expectations because of weaker demand in Europe and Asia and late-quarter order delays.",
+        "quote": "On the top line, revenue came in below our expectations this quarter, driven by weaker than anticipated customer demand in Europe and Asia coupled with order delays late in the quarter"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says the company continues to benefit from cost savings programmes, including the headquarters move.",
+        "quote": "we continue to experience the benefits from the cost savings programs initiated when I was named CEO, including the recent relocation of our headquarters"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO expects to enter 2027 with better margins, a lower cost base and a business model aimed at cash flow.",
+        "quote": "we expect to enter 2027 with better margins, a lower cost base, and a business model better aligned toward cash flow generation."
+      }
+    ],
+    "tone": {
+      "label": "cautious",
+      "reason": "The CEO says revenue came in below expectations and the company cut its revenue guidance, while pointing to cost savings and better margins ahead."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1006045-0001193125-26-465550.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1006045/000119312526465550/irix-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1006045/000119312526465550/0001193125-26-465550-index.htm",
+    "saved_at": "2026-11-19T06:08:03+08:00"
+  },
+  {
+    "cik": "1045810",
+    "company": "NVIDIA CORP",
+    "accession": "0001045810-26-000088",
+    "release_date": "2026-11-17",
+    "period_end": "2026-10-25",
+    "period_label": "quarter ended 25 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 115844,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 115,844"
+      },
+      "operating_income": {
+        "value": 77520,
+        "unit": "USD millions",
+        "quote": "Operating income | 77,520"
+      },
+      "net_income": {
+        "value": 65287,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 65,287"
+      },
+      "diluted_eps": {
+        "value": 2.7,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 2.70"
+      }
+    },
+    "guidance": {
+      "text": "NVIDIA expects fourth-quarter fiscal 2027 revenue of $130.0 billion, plus or minus 3%.",
+      "quote": "Revenue is expected to be $130.0 billion, plus or minus 3%."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Revenue rose 20% from the previous quarter and 103% from a year ago, to $115.8 billion.",
+        "quote": "today reported revenue for the third quarter ended October 25, 2026, of $115.8 billion, up 20% from the previous quarter and up 103% from a year ago."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Data Center revenue rose 21% from the previous quarter and 110% from a year ago.",
+        "quote": "Third-quarter revenue was $107.6 billion, up 21% from the previous quarter and up 110% from a year ago."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The interim CEO says Vera Rubin is off to an explosive start and the roadmap is on track.",
+        "quote": "Vera Rubin is off to an explosive start, our roadmap is on track and our ambition has never been greater."
+      },
+      {
+        "id": "M4",
+        "topic": "margins",
+        "claim": "GAAP gross margin for the next quarter is expected to fall to between 71.0% and 72.0%.",
+        "quote": "GAAP and non-GAAP gross margins are expected to be between 71.0% and 72.0%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The interim CEO says the momentum is real, Vera Rubin is off to an explosive start and the company's ambition has never been greater."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1045810-0001045810-26-000088.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27pr.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088-index.htm",
+    "saved_at": "2026-11-19T06:08:03+08:00"
   }
 ]
