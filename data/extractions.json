@@ -1184,5 +1184,124 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/q3fy27pr.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088-index.htm",
     "saved_at": "2026-11-19T06:08:03+08:00"
+  },
+  {
+    "cik": "1261654",
+    "company": "UNIVERSAL TECHNICAL INSTITUTE INC",
+    "accession": "0001261654-26-000021",
+    "release_date": "2026-11-18",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 235.883,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 235,883"
+      },
+      "operating_income": {
+        "value": 26.265,
+        "unit": "USD millions",
+        "quote": "Income from operations | 26,265"
+      },
+      "net_income": {
+        "value": 18.037,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,037"
+      },
+      "diluted_eps": {
+        "value": 0.32,
+        "unit": "USD per share",
+        "quote": "Net income per share - diluted | $ | 0.32"
+      }
+    },
+    "guidance": {
+      "text": "For fiscal 2027 the company expects revenue of $925 million to $945 million, with new student starts growing 9% at the midpoint.",
+      "quote": "Looking ahead to fiscal 2027, we expect revenue between $925 million and $945 million, while new student starts are expected to grow 9% at the midpoint"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CFO says quarterly revenue rose 6.0% to $235.9 million and adjusted EBITDA rose 15.5% to $42.5 million.",
+        "quote": "Revenue increased 6.0% to $235.9 million, average full-time active students grew 6.3% and adjusted EBITDA increased 15.5% to $42.5 million."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CFO says growth investments will temporarily pressure margins while building earnings power.",
+        "quote": "We view these as disciplined, high-return investments that will temporarily pressure margins while building meaningful earnings power for the years ahead."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO expresses confidence in exceeding $1.2 billion in revenue and approaching $220 million in adjusted EBITDA in fiscal 2029.",
+        "quote": "Together, these initiatives give us even greater confidence in our ability to exceed $1.2 billion in revenue and approach $220 million in adjusted EBITDA in fiscal 2029."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO and CFO describe continued growth and greater confidence, while noting that investments will temporarily pressure margins."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1261654-0001261654-26-000021.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1261654/000126165426000021/exhibit991-q42026earningsp.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1261654/000126165426000021/0001261654-26-000021-index.htm",
+    "saved_at": "2026-11-20T06:08:11+08:00"
+  },
+  {
+    "cik": "913760",
+    "company": "StoneX Group Inc.",
+    "accession": "0000913760-26-000044",
+    "release_date": "2026-11-18",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 37459.5,
+        "unit": "USD millions",
+        "quote": "Total revenues | 37,459.5"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 84.2,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 84.2"
+      },
+      "diluted_eps": {
+        "value": 0.66,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.66"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says fiscal 2026 brought record annual results, with $2.9 billion in net operating revenues and $525.4 million in net income.",
+        "quote": "We are proud to close out fiscal 2026 with record annual results, highlighted by $2.9 billion in net operating revenues and $525.4 million in net income"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says net operating revenues and earnings continued to grow by double digits year over year.",
+        "quote": "These results reflect the momentum we have built across StoneX, with continued double-digit year-over-year growth in both net operating revenues and earnings"
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the largest acquisition to date was integrated on schedule while meeting capital and cost synergy targets.",
+        "quote": "we successfully integrated our largest acquisition to date, on schedule whilst achieving our capital and cost synergy targets"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of record annual results, momentum and confidence in the opportunities ahead, and names no headwind."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/913760-0000913760-26-000044.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/913760/000091376026000044/snex2026er_exhq4roll.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/913760/000091376026000044/0000913760-26-000044-index.htm",
+    "saved_at": "2026-11-20T06:08:11+08:00"
   }
 ]

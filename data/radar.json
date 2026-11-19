@@ -89,6 +89,15 @@
       "results_filings": 164,
       "new": 46,
       "offline": false
+    },
+    {
+      "run_at": "2026-11-20T06:08:11+08:00",
+      "start": "2026-11-17",
+      "end": "2026-11-18",
+      "hits": 70,
+      "results_filings": 65,
+      "new": 24,
+      "offline": false
     }
   ],
   "filings": {
@@ -55373,7 +55382,400 @@
       ],
       "filing_url": "https://www.sec.gov/Archives/edgar/data/1885522/000119312526462165/0001193125-26-462165-index.htm",
       "first_seen": "2026-11-19T06:08:03+08:00"
+    },
+    "0001437749-26-037585": {
+      "accession": "0001437749-26-037585",
+      "file_date": "2026-11-18",
+      "company": "Beam Global",
+      "tickers": [
+        "BEEM"
+      ],
+      "cik": "1398805",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1398805/000143774926037585/0001437749-26-037585-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0001517767-26-000045": {
+      "accession": "0001517767-26-000045",
+      "file_date": "2026-11-18",
+      "company": "Carlyle Credit Income Fund",
+      "tickers": [
+        "CCID",
+        "CCIF"
+      ],
+      "cik": "1517767",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1517767/000151776726000045/0001517767-26-000045-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0001193125-26-467084": {
+      "accession": "0001193125-26-467084",
+      "file_date": "2026-11-18",
+      "company": "ContextLogic Holdings Inc.",
+      "tickers": [
+        "LOGC"
+      ],
+      "cik": "2064307",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2064307/000119312526467084/0001193125-26-467084-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0001474432-26-000110": {
+      "accession": "0001474432-26-000110",
+      "file_date": "2026-11-18",
+      "company": "Everpure, Inc.",
+      "tickers": [
+        "P"
+      ],
+      "cik": "1474432",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1474432/000147443226000110/0001474432-26-000110-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0001193125-26-466274": {
+      "accession": "0001193125-26-466274",
+      "file_date": "2026-11-18",
+      "company": "EXPEDITORS INTERNATIONAL OF WASHINGTON INC",
+      "tickers": [
+        "EXPD"
+      ],
+      "cik": "746515",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/746515/000119312526466274/0001193125-26-466274-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0001493152-26-052996": {
+      "accession": "0001493152-26-052996",
+      "file_date": "2026-11-18",
+      "company": "GameSquare Holdings, Inc.",
+      "tickers": [
+        "GAME"
+      ],
+      "cik": "1714562",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1714562/000149315226052996/0001493152-26-052996-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0000046765-26-000058": {
+      "accession": "0000046765-26-000058",
+      "file_date": "2026-11-18",
+      "company": "Helmerich & Payne, Inc.",
+      "tickers": [
+        "HP"
+      ],
+      "cik": "46765",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/46765/000004676526000058/0000046765-26-000058-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0000056978-26-000038": {
+      "accession": "0000056978-26-000038",
+      "file_date": "2026-11-18",
+      "company": "KULICKE & SOFFA INDUSTRIES INC",
+      "tickers": [
+        "KLIC"
+      ],
+      "cik": "56978",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/56978/000005697826000038/0000056978-26-000038-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0001493152-26-052991": {
+      "accession": "0001493152-26-052991",
+      "file_date": "2026-11-18",
+      "company": "Lantern Pharma Inc.",
+      "tickers": [
+        "LTRN"
+      ],
+      "cik": "1763950",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1763950/000149315226052991/0001493152-26-052991-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0000060667-26-000126": {
+      "accession": "0000060667-26-000126",
+      "file_date": "2026-11-18",
+      "company": "LOWES COMPANIES INC",
+      "tickers": [
+        "LOW"
+      ],
+      "cik": "60667",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000126/0000060667-26-000126-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0001140361-26-044760": {
+      "accession": "0001140361-26-044760",
+      "file_date": "2026-11-18",
+      "company": "NEW JERSEY RESOURCES CORP",
+      "tickers": [
+        "NJR"
+      ],
+      "cik": "356309",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/0001140361-26-044760-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0001327567-26-000030": {
+      "accession": "0001327567-26-000030",
+      "file_date": "2026-11-18",
+      "company": "Palo Alto Networks Inc",
+      "tickers": [
+        "PANW"
+      ],
+      "cik": "1327567",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "3.02",
+        "7.01",
+        "8.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/0001327567-26-000030-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0001104659-26-129695": {
+      "accession": "0001104659-26-129695",
+      "file_date": "2026-11-18",
+      "company": "Permianville Royalty Trust",
+      "tickers": [
+        "PVL"
+      ],
+      "cik": "1520048",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1520048/000110465926129695/0001104659-26-129695-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0001628280-26-074799": {
+      "accession": "0001628280-26-074799",
+      "file_date": "2026-11-18",
+      "company": "RED ROBIN GOURMET BURGERS INC",
+      "tickers": [
+        "RRGB"
+      ],
+      "cik": "1171759",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1171759/000162828026074799/0001628280-26-074799-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0001437749-26-037543": {
+      "accession": "0001437749-26-037543",
+      "file_date": "2026-11-18",
+      "company": "ReposiTrak, Inc.",
+      "tickers": [
+        "TRAK"
+      ],
+      "cik": "50471",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "5.07",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926037543/0001437749-26-037543-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0001104659-26-129354": {
+      "accession": "0001104659-26-129354",
+      "file_date": "2026-11-18",
+      "company": "Retension Pharmaceuticals, Inc.",
+      "tickers": [
+        "RTSN"
+      ],
+      "cik": "2002988",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2002988/000110465926129354/0001104659-26-129354-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0001731122-26-001461": {
+      "accession": "0001731122-26-001461",
+      "file_date": "2026-11-18",
+      "company": "Sadot Group Inc.",
+      "tickers": [
+        "SDOT"
+      ],
+      "cik": "1701756",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1701756/000173112226001461/0001731122-26-001461-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0001640334-26-001853": {
+      "accession": "0001640334-26-001853",
+      "file_date": "2026-11-18",
+      "company": "SolarMax Technology, Inc.",
+      "tickers": [
+        "SMXT"
+      ],
+      "cik": "1519472",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1519472/000164033426001853/0001640334-26-001853-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0000913760-26-000044": {
+      "accession": "0000913760-26-000044",
+      "file_date": "2026-11-18",
+      "company": "StoneX Group Inc.",
+      "tickers": [
+        "SNEX"
+      ],
+      "cik": "913760",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/913760/000091376026000044/0000913760-26-000044-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0000027419-26-000051": {
+      "accession": "0000027419-26-000051",
+      "file_date": "2026-11-18",
+      "company": "TARGET CORP",
+      "tickers": [
+        "TGT"
+      ],
+      "cik": "27419",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000051/0000027419-26-000051-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0000109198-26-000058": {
+      "accession": "0000109198-26-000058",
+      "file_date": "2026-11-18",
+      "company": "TJX COMPANIES INC /DE/",
+      "tickers": [
+        "TJX"
+      ],
+      "cik": "109198",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/0000109198-26-000058-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0001261654-26-000021": {
+      "accession": "0001261654-26-000021",
+      "file_date": "2026-11-18",
+      "company": "UNIVERSAL TECHNICAL INSTITUTE INC",
+      "tickers": [
+        "UTI"
+      ],
+      "cik": "1261654",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1261654/000126165426000021/0001261654-26-000021-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0001193125-26-467226": {
+      "accession": "0001193125-26-467226",
+      "file_date": "2026-11-18",
+      "company": "Voyager Therapeutics, Inc.",
+      "tickers": [
+        "VYGR"
+      ],
+      "cik": "1640266",
+      "form": "8-K/A",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1640266/000119312526467226/0001193125-26-467226-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
+    },
+    "0001171843-26-007561": {
+      "accession": "0001171843-26-007561",
+      "file_date": "2026-11-18",
+      "company": "Woodward, Inc.",
+      "tickers": [
+        "WWD"
+      ],
+      "cik": "108312",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/108312/000117184326007561/0001171843-26-007561-index.htm",
+      "first_seen": "2026-11-20T06:08:11+08:00"
     }
   },
-  "updated_at": "2026-11-19T06:08:03+08:00"
+  "updated_at": "2026-11-20T06:08:11+08:00"
 }
