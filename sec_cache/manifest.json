@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T10:16:09+08:00",
+  "fetched_at": "2026-11-20T10:36:19+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,103 +16,103 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-19",
       "ok": true,
-      "detail": "HTTP 200, 41 KB in 43 ms"
+      "detail": "HTTP 200, 41 KB in 248 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 22 ms"
+      "detail": "HTTP 200, 148 KB in 197 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 19 ms"
+      "detail": "HTTP 200, 156 KB in 140 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 21 ms"
+      "detail": "HTTP 200, 153 KB in 123 ms"
     },
     {
       "name": "MOVING iMAGE TECHNOLOGIES INC. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1770236/000143774926037634/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 54 ms"
+      "detail": "HTTP 200, 1 KB in 123 ms"
     },
     {
       "name": "MOVING iMAGE TECHNOLOGIES INC. filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/1770236/000143774926037634/0001437749-26-037634-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 137 ms"
+      "detail": "HTTP 200, 10 KB in 73 ms"
     },
     {
       "name": "MOVING iMAGE TECHNOLOGIES INC. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1770236/000143774926037634/ex_1042843.htm",
       "ok": true,
-      "detail": "HTTP 200, 104 KB in 39 ms"
+      "detail": "HTTP 200, 104 KB in 59 ms"
     },
     {
       "name": "CALERES INC filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/14707/000110465926130237/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 35 ms"
+      "detail": "HTTP 200, 1 KB in 41 ms"
     },
     {
       "name": "CALERES INC press release",
       "url": "https://www.sec.gov/Archives/edgar/data/14707/000110465926130237/cal-ex99d1.htm",
       "ok": true,
-      "detail": "HTTP 200, 11 KB in 30 ms"
+      "detail": "HTTP 200, 11 KB in 68 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 45 ms"
+      "detail": "HTTP 200, 3,174 KB in 200 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 107 ms"
+      "detail": "HTTP 200, 4,447 KB in 218 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 27 ms"
+      "detail": "HTTP 200, 2,745 KB in 189 ms"
     },
     {
       "name": "MOVING iMAGE TECHNOLOGIES INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001770236.json",
       "ok": true,
-      "detail": "HTTP 200, 859 KB in 209 ms"
+      "detail": "HTTP 200, 859 KB in 229 ms"
     },
     {
       "name": "CALERES INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000014707.json",
       "ok": true,
-      "detail": "HTTP 200, 3,506 KB in 31 ms"
+      "detail": "HTTP 200, 3,506 KB in 259 ms"
     },
     {
       "name": "NVIDIA CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001045810.json",
       "ok": true,
-      "detail": "HTTP 200, 3,997 KB in 28 ms"
+      "detail": "HTTP 200, 3,997 KB in 215 ms"
     },
     {
       "name": "UNIVERSAL TECHNICAL INSTITUTE INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001261654.json",
       "ok": true,
-      "detail": "HTTP 200, 3,027 KB in 677 ms"
+      "detail": "HTTP 200, 3,027 KB in 546 ms"
     },
     {
       "name": "StoneX Group Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000913760.json",
       "ok": true,
-      "detail": "HTTP 200, 4,627 KB in 35 ms"
+      "detail": "HTTP 200, 4,627 KB in 958 ms"
     }
   ],
   "files": [
