@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T09:12:15+08:00",
+  "fetched_at": "2026-11-22T09:34:12+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,97 +16,97 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-21",
       "ok": true,
-      "detail": "HTTP 200, 47 KB in 216 ms"
+      "detail": "HTTP 200, 47 KB in 202 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 58 ms"
+      "detail": "HTTP 200, 148 KB in 26 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 28 ms"
+      "detail": "HTTP 200, 156 KB in 19 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 26 ms"
+      "detail": "HTTP 200, 153 KB in 22 ms"
     },
     {
       "name": "Emmaus Life Sciences, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/822370/000121390026121951/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 205 ms"
+      "detail": "HTTP 200, 1 KB in 132 ms"
     },
     {
       "name": "Emmaus Life Sciences, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/822370/000121390026121951/ea031195301ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 39 KB in 261 ms"
+      "detail": "HTTP 200, 39 KB in 158 ms"
     },
     {
       "name": "Elastic N.V. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1707753/000170775326000067/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 150 ms"
+      "detail": "HTTP 200, 1 KB in 75 ms"
     },
     {
       "name": "Elastic N.V. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1707753/000170775326000067/a27q2erex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 393 KB in 183 ms"
+      "detail": "HTTP 200, 393 KB in 137 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 49 ms"
+      "detail": "HTTP 200, 3,174 KB in 27 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 36 ms"
+      "detail": "HTTP 200, 4,447 KB in 33 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 32 ms"
+      "detail": "HTTP 200, 2,745 KB in 28 ms"
     },
     {
       "name": "Emmaus Life Sciences, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000822370.json",
       "ok": true,
-      "detail": "HTTP 200, 2,538 KB in 214 ms"
+      "detail": "HTTP 200, 2,538 KB in 336 ms"
     },
     {
       "name": "Elastic N.V. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001707753.json",
       "ok": true,
-      "detail": "HTTP 200, 1,861 KB in 45 ms"
+      "detail": "HTTP 200, 1,861 KB in 34 ms"
     },
     {
       "name": "NVIDIA CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001045810.json",
       "ok": true,
-      "detail": "HTTP 200, 3,997 KB in 32 ms"
+      "detail": "HTTP 200, 3,997 KB in 27 ms"
     },
     {
       "name": "UNIVERSAL TECHNICAL INSTITUTE INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001261654.json",
       "ok": true,
-      "detail": "HTTP 200, 3,027 KB in 43 ms"
+      "detail": "HTTP 200, 3,027 KB in 20 ms"
     },
     {
       "name": "StoneX Group Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000913760.json",
       "ok": true,
-      "detail": "HTTP 200, 4,627 KB in 294 ms"
+      "detail": "HTTP 200, 4,627 KB in 31 ms"
     }
   ],
   "files": [
