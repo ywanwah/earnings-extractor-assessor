@@ -1,130 +1,135 @@
 {
-  "fetched_at": "2026-11-23T09:58:12+08:00",
+  "fetched_at": "2026-11-24T13:17:27+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-18",
-    "end": "2026-11-22",
+    "end": "2026-11-24",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 16,
-  "answered": 16,
+  "requests": 17,
+  "answered": 15,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-22",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-24",
       "ok": true,
-      "detail": "HTTP 200, 47 KB in 327 ms"
+      "detail": "HTTP 200, 60 KB in 958 ms"
+    },
+    {
+      "name": "Earnings radar, page 2",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-24&from=100",
+      "ok": true,
+      "detail": "HTTP 200, 8 KB in 423 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 148 ms"
+      "detail": "HTTP 200, 149 KB in 28 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 117 ms"
+      "detail": "HTTP 200, 157 KB in 18 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 47 ms"
+      "detail": "HTTP 200, 154 KB in 18 ms"
     },
     {
-      "name": "MAXIMUS, INC. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1032220/000103222026000048/index.json",
+      "name": "MESA ROYALTY TRUST/TX filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/313364/000110465926130124/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 254 ms"
+      "detail": "HTTP 200, 1 KB in 77 ms"
     },
     {
-      "name": "MAXIMUS, INC. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1032220/000103222026000048/mms-2026x09x30x8kxex991.htm",
+      "name": "MESA ROYALTY TRUST/TX press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/313364/000110465926130124/tm2630218d1_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 403 KB in 718 ms"
+      "detail": "HTTP 200, 7 KB in 45 ms"
     },
     {
-      "name": "Keysight Technologies, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1601046/000160104626000040/index.json",
+      "name": "PermRock Royalty Trust filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526467918/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 108 ms"
+      "detail": "HTTP 200, 1 KB in 48 ms"
     },
     {
-      "name": "Keysight Technologies, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1601046/000160104626000040/exhibit991-q426pressrelease.htm",
+      "name": "PermRock Royalty Trust press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526467918/prt-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 297 KB in 403 ms"
+      "detail": "HTTP 200, 32 KB in 196 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 186 ms"
+      "detail": "HTTP 200, 3,175 KB in 115 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 186 ms"
+      "detail": "HTTP 200, 4,447 KB in 51 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 171 ms"
+      "detail": "HTTP 200, 2,745 KB in 22 ms"
     },
     {
-      "name": "MAXIMUS, INC. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001032220.json",
-      "ok": true,
-      "detail": "HTTP 200, 2,977 KB in 123 ms"
+      "name": "MESA ROYALTY TRUST/TX company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000313364.json",
+      "ok": false,
+      "detail": "HTTP 404 from data.sec.gov: the address was not found"
     },
     {
-      "name": "Keysight Technologies, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001601046.json",
-      "ok": true,
-      "detail": "HTTP 200, 3,434 KB in 859 ms"
+      "name": "PermRock Royalty Trust company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001724009.json",
+      "ok": false,
+      "detail": "HTTP 404 from data.sec.gov: the address was not found"
     },
     {
       "name": "NVIDIA CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001045810.json",
       "ok": true,
-      "detail": "HTTP 200, 3,997 KB in 102 ms"
+      "detail": "HTTP 200, 3,997 KB in 74 ms"
     },
     {
       "name": "UNIVERSAL TECHNICAL INSTITUTE INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001261654.json",
       "ok": true,
-      "detail": "HTTP 200, 3,027 KB in 454 ms"
+      "detail": "HTTP 200, 3,027 KB in 444 ms"
     },
     {
       "name": "StoneX Group Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000913760.json",
       "ok": true,
-      "detail": "HTTP 200, 4,627 KB in 410 ms"
+      "detail": "HTTP 200, 4,627 KB in 117 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0000913760.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001032220.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001045810.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001261654.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001601046.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
-    "www.sec.gov_Archives_edgar_data_1032220_000103222026000048_index.json",
-    "www.sec.gov_Archives_edgar_data_1032220_000103222026000048_mms-2026x09x30x8kxex991.htm",
-    "www.sec.gov_Archives_edgar_data_1601046_000160104626000040_exhibit991-q426pressrelease.htm",
-    "www.sec.gov_Archives_edgar_data_1601046_000160104626000040_index.json"
+    "efts.sec.gov_search-index_from100.json",
+    "www.sec.gov_Archives_edgar_data_1724009_000119312526467918_index.json",
+    "www.sec.gov_Archives_edgar_data_1724009_000119312526467918_prt-ex99_1.htm",
+    "www.sec.gov_Archives_edgar_data_313364_000110465926130124_index.json",
+    "www.sec.gov_Archives_edgar_data_313364_000110465926130124_tm2630218d1_ex99-1.htm"
   ]
 }
