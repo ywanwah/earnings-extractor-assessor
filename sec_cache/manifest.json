@@ -1,151 +1,144 @@
 {
-  "fetched_at": "2026-11-25T12:35:54+08:00",
+  "fetched_at": "2026-11-26T11:30:46+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-18",
-    "end": "2026-11-24",
+    "end": "2026-11-25",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 19,
-  "answered": 19,
+  "requests": 18,
+  "answered": 18,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-24",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-25",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 492 ms"
+      "detail": "HTTP 200, 60 KB in 519 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-24&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-25&from=100",
       "ok": true,
-      "detail": "HTTP 200, 27 KB in 250 ms"
+      "detail": "HTTP 200, 32 KB in 674 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 121 ms"
+      "detail": "HTTP 200, 148 KB in 105 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 158 KB in 18 ms"
+      "detail": "HTTP 200, 156 KB in 63 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 19 ms"
+      "detail": "HTTP 200, 154 KB in 59 ms"
     },
     {
-      "name": "Walmart Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000168/index.json",
+      "name": "BJ's Wholesale Club Holdings, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1531152/000153115226000083/index.json",
       "ok": true,
-      "detail": "HTTP 200, 6 KB in 56 ms"
+      "detail": "HTTP 200, 1 KB in 124 ms"
     },
     {
-      "name": "Walmart Inc. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000168/0000104169-26-000168-index.htm",
+      "name": "BJ's Wholesale Club Holdings, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1531152/000153115226000083/bj-2026103126x8kex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 25 KB in 32 ms"
+      "detail": "HTTP 200, 265 KB in 120 ms"
     },
     {
-      "name": "Walmart Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000168/earningsreleasefy27q3.htm",
+      "name": "DYCOM INDUSTRIES INC filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/67215/000006721526000048/index.json",
       "ok": true,
-      "detail": "HTTP 200, 778 KB in 77 ms"
+      "detail": "HTTP 200, 4 KB in 80 ms"
     },
     {
-      "name": "CENTRAL GARDEN & PET CO filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/887733/000088773326000024/index.json",
+      "name": "DYCOM INDUSTRIES INC filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/67215/000006721526000048/0000067215-26-000048-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 34 ms"
+      "detail": "HTTP 200, 17 KB in 176 ms"
     },
     {
-      "name": "CENTRAL GARDEN & PET CO filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/887733/000088773326000024/0000887733-26-000024-index.htm",
+      "name": "DYCOM INDUSTRIES INC press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/67215/000006721526000048/dyfy2027q3earningsreleasee.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 60 ms"
-    },
-    {
-      "name": "CENTRAL GARDEN & PET CO press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/887733/000088773326000024/q42026pressrelease.htm",
-      "ok": true,
-      "detail": "HTTP 200, 559 KB in 96 ms"
+      "detail": "HTTP 200, 335 KB in 115 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 53 ms"
+      "detail": "HTTP 200, 3,175 KB in 116 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 832 ms"
+      "detail": "HTTP 200, 4,447 KB in 128 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 20 ms"
+      "detail": "HTTP 200, 2,745 KB in 91 ms"
     },
     {
-      "name": "Walmart Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000104169.json",
+      "name": "BJ's Wholesale Club Holdings, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001531152.json",
       "ok": true,
-      "detail": "HTTP 200, 3,683 KB in 32 ms"
+      "detail": "HTTP 200, 1,985 KB in 139 ms"
     },
     {
-      "name": "CENTRAL GARDEN & PET CO company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000887733.json",
+      "name": "DYCOM INDUSTRIES INC company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000067215.json",
       "ok": true,
-      "detail": "HTTP 200, 3,052 KB in 265 ms"
+      "detail": "HTTP 200, 3,454 KB in 168 ms"
     },
     {
       "name": "NVIDIA CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001045810.json",
       "ok": true,
-      "detail": "HTTP 200, 3,997 KB in 56 ms"
+      "detail": "HTTP 200, 3,997 KB in 139 ms"
     },
     {
       "name": "UNIVERSAL TECHNICAL INSTITUTE INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001261654.json",
       "ok": true,
-      "detail": "HTTP 200, 3,027 KB in 528 ms"
+      "detail": "HTTP 200, 3,027 KB in 294 ms"
     },
     {
       "name": "StoneX Group Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000913760.json",
       "ok": true,
-      "detail": "HTTP 200, 4,627 KB in 1151 ms"
+      "detail": "HTTP 200, 4,627 KB in 655 ms"
     }
   ],
   "files": [
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000104169.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000887733.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000067215.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000913760.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001045810.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001261654.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001531152.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
     "efts.sec.gov_search-index_from100.json",
-    "www.sec.gov_Archives_edgar_data_104169_000010416926000168_0000104169-26-000168-index.htm",
-    "www.sec.gov_Archives_edgar_data_104169_000010416926000168_earningsreleasefy27q3.htm",
-    "www.sec.gov_Archives_edgar_data_104169_000010416926000168_index.json",
-    "www.sec.gov_Archives_edgar_data_887733_000088773326000024_0000887733-26-000024-index.htm",
-    "www.sec.gov_Archives_edgar_data_887733_000088773326000024_index.json",
-    "www.sec.gov_Archives_edgar_data_887733_000088773326000024_q42026pressrelease.htm"
+    "www.sec.gov_Archives_edgar_data_1531152_000153115226000083_bj-2026103126x8kex991.htm",
+    "www.sec.gov_Archives_edgar_data_1531152_000153115226000083_index.json",
+    "www.sec.gov_Archives_edgar_data_67215_000006721526000048_0000067215-26-000048-index.htm",
+    "www.sec.gov_Archives_edgar_data_67215_000006721526000048_dyfy2027q3earningsreleasee.htm",
+    "www.sec.gov_Archives_edgar_data_67215_000006721526000048_index.json"
   ]
 }
