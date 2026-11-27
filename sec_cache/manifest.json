@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-26T11:45:54+08:00",
+  "fetched_at": "2026-11-27T11:36:38+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-18",
-    "end": "2026-11-25",
+    "end": "2026-11-26",
     "first_run": false,
     "note": null
   },
@@ -14,131 +14,131 @@
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-25",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-26",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 471 ms"
+      "detail": "HTTP 200, 60 KB in 855 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-25&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-26&from=100",
       "ok": true,
-      "detail": "HTTP 200, 32 KB in 497 ms"
+      "detail": "HTTP 200, 32 KB in 721 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 43 ms"
+      "detail": "HTTP 200, 148 KB in 232 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 45 ms"
+      "detail": "HTTP 200, 156 KB in 73 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 41 ms"
+      "detail": "HTTP 200, 154 KB in 60 ms"
     },
     {
-      "name": "BJ's Wholesale Club Holdings, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1531152/000153115226000083/index.json",
+      "name": "GoodRx Holdings, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1809519/000180951926000231/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 72 ms"
+      "detail": "HTTP 200, 1 KB in 210 ms"
     },
     {
-      "name": "BJ's Wholesale Club Holdings, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1531152/000153115226000083/bj-2026103126x8kex991.htm",
+      "name": "GoodRx Holdings, Inc. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1809519/000180951926000231/0001809519-26-000231-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 265 KB in 78 ms"
+      "detail": "HTTP 200, 10 KB in 157 ms"
     },
     {
-      "name": "DYCOM INDUSTRIES INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/67215/000006721526000048/index.json",
+      "name": "GoodRx Holdings, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1809519/000180951926000231/gdrxq326-exx991pressrelease.htm",
       "ok": true,
-      "detail": "HTTP 200, 4 KB in 43 ms"
+      "detail": "HTTP 200, 1,314 KB in 402 ms"
     },
     {
-      "name": "DYCOM INDUSTRIES INC filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/67215/000006721526000048/0000067215-26-000048-index.htm",
+      "name": "Dell Technologies Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000050/index.json",
       "ok": true,
-      "detail": "HTTP 200, 17 KB in 115 ms"
+      "detail": "HTTP 200, 1 KB in 105 ms"
     },
     {
-      "name": "DYCOM INDUSTRIES INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/67215/000006721526000048/dyfy2027q3earningsreleasee.htm",
+      "name": "Dell Technologies Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000050/exhibit991earnings8kq3fy27.htm",
       "ok": true,
-      "detail": "HTTP 200, 335 KB in 111 ms"
+      "detail": "HTTP 200, 574 KB in 97 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 73 ms"
+      "detail": "HTTP 200, 3,175 KB in 195 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 157 ms"
+      "detail": "HTTP 200, 4,447 KB in 122 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 94 ms"
+      "detail": "HTTP 200, 2,745 KB in 187 ms"
     },
     {
-      "name": "BJ's Wholesale Club Holdings, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001531152.json",
+      "name": "GoodRx Holdings, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001809519.json",
       "ok": true,
-      "detail": "HTTP 200, 1,985 KB in 72 ms"
+      "detail": "HTTP 200, 1,190 KB in 84 ms"
     },
     {
-      "name": "DYCOM INDUSTRIES INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000067215.json",
+      "name": "Dell Technologies Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001571996.json",
       "ok": true,
-      "detail": "HTTP 200, 3,454 KB in 63 ms"
+      "detail": "HTTP 200, 3,481 KB in 393 ms"
     },
     {
       "name": "NVIDIA CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001045810.json",
       "ok": true,
-      "detail": "HTTP 200, 3,997 KB in 77 ms"
+      "detail": "HTTP 200, 3,997 KB in 207 ms"
     },
     {
       "name": "UNIVERSAL TECHNICAL INSTITUTE INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001261654.json",
       "ok": true,
-      "detail": "HTTP 200, 3,027 KB in 110 ms"
+      "detail": "HTTP 200, 3,027 KB in 127 ms"
     },
     {
       "name": "StoneX Group Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000913760.json",
       "ok": true,
-      "detail": "HTTP 200, 4,627 KB in 499 ms"
+      "detail": "HTTP 200, 4,627 KB in 336 ms"
     }
   ],
   "files": [
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000067215.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000913760.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001045810.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001261654.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001531152.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001571996.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001809519.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
     "efts.sec.gov_search-index_from100.json",
-    "www.sec.gov_Archives_edgar_data_1531152_000153115226000083_bj-2026103126x8kex991.htm",
-    "www.sec.gov_Archives_edgar_data_1531152_000153115226000083_index.json",
-    "www.sec.gov_Archives_edgar_data_67215_000006721526000048_0000067215-26-000048-index.htm",
-    "www.sec.gov_Archives_edgar_data_67215_000006721526000048_dyfy2027q3earningsreleasee.htm",
-    "www.sec.gov_Archives_edgar_data_67215_000006721526000048_index.json"
+    "www.sec.gov_Archives_edgar_data_1571996_000157199626000050_exhibit991earnings8kq3fy27.htm",
+    "www.sec.gov_Archives_edgar_data_1571996_000157199626000050_index.json",
+    "www.sec.gov_Archives_edgar_data_1809519_000180951926000231_0001809519-26-000231-index.htm",
+    "www.sec.gov_Archives_edgar_data_1809519_000180951926000231_gdrxq326-exx991pressrelease.htm",
+    "www.sec.gov_Archives_edgar_data_1809519_000180951926000231_index.json"
   ]
 }
