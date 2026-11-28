@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-28T11:15:25+08:00",
+  "fetched_at": "2026-11-28T11:31:25+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,109 +16,109 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-27",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 689 ms"
+      "detail": "HTTP 200, 60 KB in 678 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-27&from=100",
       "ok": true,
-      "detail": "HTTP 200, 33 KB in 488 ms"
+      "detail": "HTTP 200, 33 KB in 874 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 219 ms"
+      "detail": "HTTP 200, 148 KB in 182 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 206 ms"
+      "detail": "HTTP 200, 156 KB in 97 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 199 ms"
+      "detail": "HTTP 200, 153 KB in 94 ms"
     },
     {
       "name": "Titan Machinery Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1409171/000162828026075606/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 102 ms"
+      "detail": "HTTP 200, 1 KB in 302 ms"
     },
     {
       "name": "Titan Machinery Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1409171/000162828026075606/afy27q3ex991earningsrelease.htm",
       "ok": true,
-      "detail": "HTTP 200, 269 KB in 55 ms"
+      "detail": "HTTP 200, 269 KB in 525 ms"
     },
     {
       "name": "INGLES MARKETS INC filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/50493/000143774926038232/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 101 ms"
+      "detail": "HTTP 200, 1 KB in 210 ms"
     },
     {
       "name": "INGLES MARKETS INC filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/50493/000143774926038232/0001437749-26-038232-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 122 ms"
+      "detail": "HTTP 200, 10 KB in 96 ms"
     },
     {
       "name": "INGLES MARKETS INC press release",
       "url": "https://www.sec.gov/Archives/edgar/data/50493/000143774926038232/ex_1050620.htm",
       "ok": true,
-      "detail": "HTTP 200, 136 KB in 72 ms"
+      "detail": "HTTP 200, 136 KB in 187 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 299 ms"
+      "detail": "HTTP 200, 3,175 KB in 153 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 321 ms"
+      "detail": "HTTP 200, 4,447 KB in 179 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 288 ms"
+      "detail": "HTTP 200, 2,745 KB in 167 ms"
     },
     {
       "name": "Titan Machinery Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001409171.json",
       "ok": true,
-      "detail": "HTTP 200, 3,035 KB in 1195 ms"
+      "detail": "HTTP 200, 3,035 KB in 365 ms"
     },
     {
       "name": "INGLES MARKETS INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000050493.json",
       "ok": true,
-      "detail": "HTTP 200, 1,909 KB in 594 ms"
+      "detail": "HTTP 200, 1,909 KB in 141 ms"
     },
     {
       "name": "NVIDIA CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001045810.json",
       "ok": true,
-      "detail": "HTTP 200, 3,997 KB in 313 ms"
+      "detail": "HTTP 200, 3,997 KB in 166 ms"
     },
     {
       "name": "UNIVERSAL TECHNICAL INSTITUTE INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001261654.json",
       "ok": true,
-      "detail": "HTTP 200, 3,027 KB in 331 ms"
+      "detail": "HTTP 200, 3,027 KB in 379 ms"
     },
     {
       "name": "StoneX Group Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000913760.json",
       "ok": true,
-      "detail": "HTTP 200, 4,734 KB in 561 ms"
+      "detail": "HTTP 200, 4,734 KB in 163 ms"
     }
   ],
   "files": [
